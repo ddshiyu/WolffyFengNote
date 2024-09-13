@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "b9b322da274ce515",
+    "type": "split",
+    "children": [
+      {
+        "id": "eaf49a11edd8a754",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5103cb5d79f7966",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian 语法.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "58b9d6ebabcd550d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "68e5206865e3f126",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "7e259bbccca437bd",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "ce0de161633f0e1a",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "b3fdc1f5391746ae",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "2d6018f8c58f1a76",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "cbc476b97b616262",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "obsidian 语法.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "40ff11dbbda44f30",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "obsidian 语法.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "41cbb63c3318a61e",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "obsidian 语法.md"
+          }
+        }
+      },
+      {
+        "id": "2cc94492e36dfde9",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "87f0e69d36aaec69",
+        "type": "leaf",
+        "state": {
+          "type": "todo",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "obsidian-weread-plugin:同步微信读书笔记": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "homepage:Open homepage": false,
+      "obsidian-kanban:创建新看板": false,
+      "obsidian-projects:打开项目": false
+    }
+  },
+  "active": "e5103cb5d79f7966",
+  "lastOpenFiles": [
+    "home.md",
+    "资源教程/乐器人生/夏沫的海.md",
+    "生活方式/美食人生/dishes/aquatic/蛏抱蛋/蛏抱蛋.md",
+    "生活方式/阅读人生/读书笔记/2024-04《检索力》【豆瓣评分7.4】.md",
+    "ce.md",
+    "Dashboard/IMG-20240910223228109.jpg",
+    "nice.md",
+    "工作领域/计算机科学/前端/小程序/小程序笔记.md",
+    "工作领域/计算机科学/前端/js/JS非常用方法.md",
+    "工作领域/计算机科学/前端/js/TypeScript.md",
+    "工作领域/计算机科学/前端/js/JS继承.md",
+    "工作领域/计算机科学/前端/css/css技巧.md",
+    "工作领域/计算机科学/前端/css/hemoxing.vue",
+    "工作领域/计算机科学/前端/css/读《CSS世界》.md",
+    "工作领域/计算机科学/前端/css/盒模型.md",
+    "工作领域/计算机科学/前端/css/svg.md",
+    "工作领域/英语/名词/名词的数.md",
+    "工作领域/英语/名词/名词的性.md",
+    "工作领域/英语/名词/名词的格.md",
+    "工作领域/英语/动名词/动名词的结构和形式.md",
+    "工作领域/英语/动名词/动名词在句子中的成分.md",
+    "工作领域/英语/一致关系/一致关系.md",
+    "工作领域/英语/状语从句/状语从句(1).md",
+    "工作领域/英语/状语从句/状语从句(2).md",
+    "工作领域/英语/动词的时态/动词的过去时.md",
+    "工作领域/英语/动词的时态/动词的将来时.md",
+    "工作领域/英语/动词的时态/动词的现在时.md",
+    "工作领域/英语/IT的用法/IT的用法.md",
+    "工作领域/计算机科学/前端/小程序",
+    "工作领域/计算机科学/前端/js",
+    "工作领域/计算机科学/前端/css",
+    "工作领域/英语/名词",
+    "工作领域/英语/动名词",
+    "工作领域/英语/一致关系",
+    "工作领域/英语/状语从句",
+    "工作领域/英语/动词的时态",
+    "工作领域/英语/IT的用法",
+    "attachment/IMG-20240910225959113.jpeg"
+  ]
+}

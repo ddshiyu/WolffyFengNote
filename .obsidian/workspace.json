@@ -1,0 +1,250 @@
+{
+  "main": {
+    "id": "d9b0ea66e1d3de62",
+    "type": "split",
+    "children": [
+      {
+        "id": "20d7ab7e2c0b927a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0498588bb10ffc1b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "419421c60b2f62d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "e58dc5542732be9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97d1d106572fe357",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "857f479305556540",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tp.",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "74e0e484b9cf2ada",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a4c951cff9ba999d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2194eb348d61735",
+        "type": "tabs",
+        "dimension": 48.94230769230769,
+        "children": [
+          {
+            "id": "985c25c3ca5abea0",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "a3399ef926c8ae2b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8435a6c493df626d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a84bd6e833af4d1e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "838dc8cb01bf05d4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "bd16ac8fbc97b0bd",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "0c1a9443b7c6da10",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "67ff4536383dcae0",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "76e6c4018a5a125c",
+        "type": "tabs",
+        "dimension": 51.05769230769231,
+        "children": [
+          {
+            "id": "805c3edef3a9e030",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 437.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-git:Open Git source control": false,
+      "homepage:Open homepage": false,
+      "obsidian-kanban:创建新看板": false,
+      "obsidian-projects:打开项目": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-weread-plugin:同步微信读书笔记": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "remotely-save:Remotely Save": false
+    }
+  },
+  "active": "0498588bb10ffc1b",
+  "lastOpenFiles": [
+    "attachment/sourceAndTutrial/美食/菜谱/饮料/金菲士/金菲士/IMG-20240913214336011.jpg",
+    "attachment/sourceAndTutrial/美食/菜谱/饮料/金汤力/金汤力/IMG-20240913214336009.jpg",
+    "attachment/sourceAndTutrial/美食/菜谱/饮料/酸梅汤/酸梅汤/IMG-20240913214336001.jpg",
+    "attachment/sourceAndTutrial/美食/菜谱/饮料/菠萝咖啡特调/菠萝咖啡特调/IMG-20240913214335992.png",
+    "attachment/sourceAndTutrial/美食/菜谱/饮料/耙耙柑茶/耙耙柑茶/IMG-20240913214335997.jpg",
+    "attachment/sourceAndTutrial/美食/菜谱/饮料/百香果橙子特调/百香果橙子特调/IMG-20240913214338152.jpg",
+    "attachment/sourceAndTutrial/美食/菜谱/饮料/砂糖椰子冰沙/砂糖椰子冰沙/IMG-20240913214336005.jpg",
+    "attachment/sourceAndTutrial/美食/菜谱/饮料/百香果橙子特调/百香果橙子特调/IMG-20240913214336015.jpg",
+    "attachment/sourceAndTutrial/美食/菜谱/饮料/泰国手标红茶/泰国手标红茶/IMG-20240913214336006.jpg",
+    "attachment/sourceAndTutrial/美食/菜谱/饮料/奇异果菠菜特调/奇异果菠菜特调/IMG-20240913214335954.jpg",
+    "attachment/sourceAndTutrial/美食/菜谱/酱料以及其他材料/蔗糖糖浆/蔗糖糖浆/IMG-20240913214335752.jpg",
+    "attachment/sourceAndTutrial/美食/菜谱/饮料/金菲士/金菲士",
+    "attachment/sourceAndTutrial/美食/菜谱/饮料/金汤力/金汤力",
+    "attachment/sourceAndTutrial/美食/菜谱/饮料/酸梅汤/酸梅汤",
+    "attachment/sourceAndTutrial/美食/菜谱/饮料/菠萝咖啡特调/菠萝咖啡特调",
+    "attachment/sourceAndTutrial/美食/菜谱/饮料/耙耙柑茶/耙耙柑茶",
+    "attachment/sourceAndTutrial/美食/菜谱/饮料/砂糖椰子冰沙/砂糖椰子冰沙",
+    "attachment/sourceAndTutrial/美食/菜谱/饮料/百香果橙子特调/百香果橙子特调",
+    "attachment/sourceAndTutrial/美食/菜谱/饮料/泰国手标红茶/泰国手标红茶",
+    "attachment/sourceAndTutrial/美食/菜谱/饮料/奇异果菠菜特调/奇异果菠菜特调",
+    "attachment/sourceAndTutrial/美食/菜谱/饮料/冰粉/冰粉",
+    "02 Diary/day/20230403_星期一.md",
+    "02 Diary/day/20230404_星期二.md",
+    "02 Diary/day/20230402_星期日.md",
+    "02 Diary/day/20230401_星期六.md",
+    "02 Diary/day/20230331_星期五.md",
+    "02 Diary/day/20230330_星期四.md",
+    "02 Diary/day/20230329_星期三.md",
+    "02 Diary/day/20230328_星期二.md",
+    "02 Diary/day/20230327_星期一.md",
+    "02 Diary/week/2023年第14周总结.md",
+    "02 Diary/week/2023年第13周总结.md",
+    "02 Diary/参考网站.md",
+    "任务看板.md",
+    "obsidian收藏.md",
+    "obsidian 语法.md",
+    "home.md",
+    "workField/计算机/前端/js/JS非常用方法.md",
+    "workField/计算机/前端/js/TypeScript.md",
+    "workField/计算机/前端/js/JS继承.md",
+    "workField/计算机/前端/小程序/小程序笔记.md",
+    "workField/计算机/前端/css/读《CSS世界》.md",
+    "workField/计算机/前端/css/盒模型.md",
+    "workField/计算机/前端/css/svg.md",
+    "workField/计算机/前端/css/css技巧.md",
+    "workField/计算机/工具/搜索技巧.md",
+    "未命名.canvas"
+  ]
+}

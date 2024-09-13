@@ -1,0 +1,23 @@
+{
+  "editor:insert-wikilink": [
+    {
+      "modifiers": [],
+      "key": "F4"
+    }
+  ],
+  "keyboard-analyzer:show-shortcuts-analyzer-view": [
+    {
+      "modifiers": [],
+      "key": "F12"
+    }
+  ],
+  "templater-obsidian:模板/日记模板.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ]
+}

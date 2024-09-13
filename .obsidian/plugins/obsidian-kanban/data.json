@@ -1,0 +1,10 @@
+{
+  "tag-sort": [
+    {
+      "tag": "#doing"
+    }
+  ],
+  "tag-colors": [],
+  "move-tags": true,
+  "tag-action": "kanban"
+}
