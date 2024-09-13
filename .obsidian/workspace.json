@@ -11,8 +11,13 @@
             "id": "0498588bb10ffc1b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "home.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "home.md"
+              }
             }
           },
           {
@@ -185,11 +194,23 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-git:Open Git source control": false,
+      "homepage:Open homepage": false,
+      "obsidian-kanban:创建新看板": false,
+      "obsidian-projects:打开项目": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-weread-plugin:同步微信读书笔记": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "remotely-save:Remotely Save": false
     }
   },
   "active": "0498588bb10ffc1b",
   "lastOpenFiles": [
+    "任务看板.md",
+    "home.md",
+    "obsidian收藏.md",
     "attachment/sourceAndTutrial/美食/菜谱/饮料/金菲士/金菲士/IMG-20240913214336011.jpg",
     "attachment/sourceAndTutrial/美食/菜谱/饮料/金汤力/金汤力/IMG-20240913214336009.jpg",
     "attachment/sourceAndTutrial/美食/菜谱/饮料/酸梅汤/酸梅汤/IMG-20240913214336001.jpg",
@@ -200,7 +221,6 @@
     "attachment/sourceAndTutrial/美食/菜谱/饮料/百香果橙子特调/百香果橙子特调/IMG-20240913214336015.jpg",
     "attachment/sourceAndTutrial/美食/菜谱/饮料/泰国手标红茶/泰国手标红茶/IMG-20240913214336006.jpg",
     "attachment/sourceAndTutrial/美食/菜谱/饮料/奇异果菠菜特调/奇异果菠菜特调/IMG-20240913214335954.jpg",
-    "attachment/sourceAndTutrial/美食/菜谱/酱料以及其他材料/蔗糖糖浆/蔗糖糖浆/IMG-20240913214335752.jpg",
     "attachment/sourceAndTutrial/美食/菜谱/饮料/金菲士/金菲士",
     "attachment/sourceAndTutrial/美食/菜谱/饮料/金汤力/金汤力",
     "attachment/sourceAndTutrial/美食/菜谱/饮料/酸梅汤/酸梅汤",
@@ -223,10 +243,7 @@
     "02 Diary/week/2023年第14周总结.md",
     "02 Diary/week/2023年第13周总结.md",
     "02 Diary/参考网站.md",
-    "任务看板.md",
-    "obsidian收藏.md",
     "obsidian 语法.md",
-    "home.md",
     "workField/计算机/前端/js/JS非常用方法.md",
     "workField/计算机/前端/js/TypeScript.md",
     "workField/计算机/前端/js/JS继承.md",
