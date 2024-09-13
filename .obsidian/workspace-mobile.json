@@ -1,20 +1,20 @@
 {
   "main": {
-    "id": "b9b322da274ce515",
+    "id": "bc48dd1a4fedd39f",
     "type": "split",
     "children": [
       {
-        "id": "eaf49a11edd8a754",
+        "id": "806c4e2c776af391",
         "type": "tabs",
         "children": [
           {
-            "id": "e5103cb5d79f7966",
+            "id": "71fac40c2f74df24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian 语法.md",
-                "mode": "source",
+                "file": "home.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -26,11 +26,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "58b9d6ebabcd550d",
+    "id": "f2a13571bea43cd3",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "68e5206865e3f126",
+        "id": "96bc659fea579d9f",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -40,7 +40,7 @@
         }
       },
       {
-        "id": "7e259bbccca437bd",
+        "id": "119b385fb167b750",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -55,7 +55,7 @@
         }
       },
       {
-        "id": "ce0de161633f0e1a",
+        "id": "ebf8396c2b75dc44",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -66,7 +66,7 @@
         }
       },
       {
-        "id": "b3fdc1f5391746ae",
+        "id": "9cfdce7393755467",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -77,16 +77,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "2d6018f8c58f1a76",
+    "id": "49dbf03869db237c",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "cbc476b97b616262",
+        "id": "e21966d5e645d306",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "obsidian 语法.md",
+            "file": "home.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -98,29 +98,29 @@
         }
       },
       {
-        "id": "40ff11dbbda44f30",
+        "id": "8094f860bbbc25b9",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "obsidian 语法.md",
+            "file": "home.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "41cbb63c3318a61e",
+        "id": "da38bce2b315d05c",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "obsidian 语法.md"
+            "file": "home.md"
           }
         }
       },
       {
-        "id": "2cc94492e36dfde9",
+        "id": "37e31799c9a4723f",
         "type": "leaf",
         "state": {
           "type": "calendar",
@@ -128,7 +128,7 @@
         }
       },
       {
-        "id": "87f0e69d36aaec69",
+        "id": "c008c56fea29a98d",
         "type": "leaf",
         "state": {
           "type": "todo",
@@ -140,8 +140,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
-      "obsidian-weread-plugin:同步微信读书笔记": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -149,52 +147,63 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-git:Open Git source control": false,
       "homepage:Open homepage": false,
       "obsidian-kanban:创建新看板": false,
-      "obsidian-projects:打开项目": false
+      "obsidian-projects:打开项目": false,
+      "obsidian-weread-plugin:同步微信读书笔记": false,
+      "templater-obsidian:Templater": false,
+      "remotely-save:Remotely Save": false
     }
   },
-  "active": "e5103cb5d79f7966",
+  "active": "71fac40c2f74df24",
   "lastOpenFiles": [
+    "obsidian 语法.md",
+    "任务看板.md",
     "home.md",
-    "资源教程/乐器人生/夏沫的海.md",
-    "生活方式/美食人生/dishes/aquatic/蛏抱蛋/蛏抱蛋.md",
-    "生活方式/阅读人生/读书笔记/2024-04《检索力》【豆瓣评分7.4】.md",
-    "ce.md",
-    "Dashboard/IMG-20240910223228109.jpg",
-    "nice.md",
-    "工作领域/计算机科学/前端/小程序/小程序笔记.md",
-    "工作领域/计算机科学/前端/js/JS非常用方法.md",
-    "工作领域/计算机科学/前端/js/TypeScript.md",
-    "工作领域/计算机科学/前端/js/JS继承.md",
-    "工作领域/计算机科学/前端/css/css技巧.md",
-    "工作领域/计算机科学/前端/css/hemoxing.vue",
-    "工作领域/计算机科学/前端/css/读《CSS世界》.md",
-    "工作领域/计算机科学/前端/css/盒模型.md",
-    "工作领域/计算机科学/前端/css/svg.md",
-    "工作领域/英语/名词/名词的数.md",
-    "工作领域/英语/名词/名词的性.md",
-    "工作领域/英语/名词/名词的格.md",
-    "工作领域/英语/动名词/动名词的结构和形式.md",
-    "工作领域/英语/动名词/动名词在句子中的成分.md",
-    "工作领域/英语/一致关系/一致关系.md",
-    "工作领域/英语/状语从句/状语从句(1).md",
-    "工作领域/英语/状语从句/状语从句(2).md",
-    "工作领域/英语/动词的时态/动词的过去时.md",
-    "工作领域/英语/动词的时态/动词的将来时.md",
-    "工作领域/英语/动词的时态/动词的现在时.md",
-    "工作领域/英语/IT的用法/IT的用法.md",
-    "工作领域/计算机科学/前端/小程序",
-    "工作领域/计算机科学/前端/js",
-    "工作领域/计算机科学/前端/css",
-    "工作领域/英语/名词",
-    "工作领域/英语/动名词",
-    "工作领域/英语/一致关系",
-    "工作领域/英语/状语从句",
-    "工作领域/英语/动词的时态",
-    "工作领域/英语/IT的用法",
-    "attachment/IMG-20240910225959113.jpeg"
+    "obsidian收藏.md",
+    "02 Diary/day/20230329_星期三.md",
+    "02 Diary/day/20230401_星期六.md",
+    "02 Diary/day/20230330_星期四.md",
+    "02 Diary/day/20230404_星期二.md",
+    "02 Diary/day/20230328_星期二.md",
+    "02 Diary/day/20230327_星期一.md",
+    "02 Diary/day/20230402_星期日.md",
+    "02 Diary/day/20230331_星期五.md",
+    "02 Diary/day/20230403_星期一.md",
+    "02 Diary/week/2023年第13周总结.md",
+    "02 Diary/week/2023年第14周总结.md",
+    "02 Diary/day",
+    "02 Diary/参考网站.md",
+    "02 Diary/week",
+    "02 Diary",
+    "workField/计算机/前端/小程序/小程序笔记.md",
+    "workField/计算机/前端/js/JS非常用方法.md",
+    "workField/计算机/前端/js/TypeScript.md",
+    "workField/计算机/前端/js/JS继承.md",
+    "workField/计算机/前端/css/css技巧.md",
+    "workField/计算机/前端/css/hemoxing.vue",
+    "workField/计算机/前端/css/读《CSS世界》.md",
+    "workField/计算机/前端/css/盒模型.md",
+    "workField/计算机/前端/css/svg.md",
+    "workField/英语/名词/名词的数.md",
+    "workField/英语/名词/名词的性.md",
+    "workField/计算机/前端/小程序",
+    "workField/计算机/前端/js",
+    "workField/计算机/前端/css",
+    "workField/英语/名词",
+    "workField/英语/动名词",
+    "workField/英语/一致关系",
+    "sourceAndTutrial/美食/菜谱/荤菜/血浆鸭/血浆鸭(微辣).jpg",
+    "sourceAndTutrial/美食/菜谱/荤菜/血浆鸭/血浆鸭(特辣).jpg",
+    "sourceAndTutrial/美食/菜谱/荤菜/青椒土豆炒肉/青椒土豆炒肉.jpg",
+    "sourceAndTutrial/美食/菜谱/饮料/冰粉/石凉粉(冰粉)成品1.jpg",
+    "sourceAndTutrial/美食/菜谱/饮料/冰粉/石凉粉(冰粉)成品2.jpg",
+    "sourceAndTutrial/美食/菜谱/水产/葱油桂鱼/葱油桂鱼.jpg",
+    "sourceAndTutrial/美食/菜谱/水产/葱油桂鱼/10.jpg",
+    "sourceAndTutrial/美食/菜谱/水产/葱油桂鱼/葱油鲈鱼.jpg",
+    "sourceAndTutrial/美食/菜谱/主食/炒凉粉/炒凉粉成品.jpg",
+    "attachment/sourceAndTutrial/美食/菜谱/早餐/苏格兰蛋/苏格兰蛋/IMG-20240913214343205.png"
   ]
 }

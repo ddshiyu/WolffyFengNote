@@ -1,7 +1,6 @@
 [
   "settings-search",
   "obsidian-activity-history",
-  "obsidian-advanced-slides",
   "table-editor-obsidian",
   "attachment-management",
   "obsidian-banners",
@@ -27,8 +26,5 @@
   "typing-assistant",
   "templater-obsidian",
   "obsidian-weread-plugin",
-  "obsidian-hider",
-  "cmenu-plugin",
-  "webpage-html-export",
-  "remotely-save"
+  "obsidian-hider"
 ]
