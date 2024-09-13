@@ -185,16 +185,7 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "obsidian-git:Open Git source control": false,
-      "homepage:Open homepage": false,
-      "obsidian-kanban:创建新看板": false,
-      "obsidian-projects:打开项目": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-weread-plugin:同步微信读书笔记": false,
-      "webpage-html-export:Export Vault to HTML": false,
-      "remotely-save:Remotely Save": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "0498588bb10ffc1b",
