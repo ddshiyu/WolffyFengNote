@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "{{image}}.md",
+                "file": "lifeStyle/gamming/只狼.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "{{image}}.md",
+                "file": "lifeStyle/gamming/只狼.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "{{image}}.md",
+                "file": "lifeStyle/gamming/只狼.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "{{image}}.md"
+                "file": "lifeStyle/gamming/只狼.md"
               }
             }
           },
@@ -248,21 +248,25 @@
   },
   "active": "39933f095462b795",
   "lastOpenFiles": [
+    "assets/s29756927.jpg",
+    "assets/s34022650.jpg",
+    "assets/s29960207.jpg",
+    "assets/p2564556863.jpg",
+    "assets/p2219011938.jpg",
+    "lifeStyle/gamming/只狼.md",
     "template/游戏.md",
+    "lifeStyle/movie/无间道.md",
+    "template/书籍.md",
     "{{image}}.md",
     "template/电影.md",
     "template/通用写作模板.md",
-    "template/书籍.md",
     "template/乐谱.md",
-    "lifeStyle/movie/无间道.md",
     "lifeStyle/reading/读书笔记/受戒.md",
     "lifeStyle/reading/读书笔记/态度改变与社会影响（中译本修正版）.md",
     "lifeStyle/reading/读书笔记/2024-04《检索力》【豆瓣评分7.4】.md",
     "template/日记模板.md",
-    "assets/p2219011938.jpg",
     "template/周记模板.md",
     "lifeStyle/喜爱的蒸菜.md",
-    "assets/p2564556863.jpg",
     "lifeStyle/活血化瘀的食物.md",
     "lifeStyle/movie",
     "home.md",
@@ -275,7 +279,6 @@
     "attachment/lifeStyle/reading",
     "attachment/lifeStyle",
     "attachment/lifeStyle/reading/图书馆/IMG-20240914192139518.jpg",
-    "assets/s34022650.jpg",
     "obsidian 语法.md",
     "任务看板.md",
     "obsidian收藏.md",
@@ -286,14 +289,11 @@
     "record/2024-09-12.md",
     "record/2024-09-11.md",
     "attachment/obsidian收藏/IMG-20240913204815732.png",
-    "sourceAndTutrial/乐器/夏沫的海.md",
     "attachment/资源教程/美食人生/菜谱/饮料/冰粉/冰粉",
     "attachment/sourceAndTutrial/美食/菜谱/饮料/金菲士/金菲士/IMG-20240913214336011.jpg",
     "attachment/sourceAndTutrial/美食/菜谱/饮料/金汤力/金汤力/IMG-20240913214336009.jpg",
     "attachment/sourceAndTutrial/美食/菜谱/饮料/酸梅汤/酸梅汤/IMG-20240913214336001.jpg",
     "attachment/sourceAndTutrial/美食/菜谱/饮料/菠萝咖啡特调/菠萝咖啡特调/IMG-20240913214335992.png",
-    "attachment/sourceAndTutrial/美食/菜谱/饮料/耙耙柑茶/耙耙柑茶/IMG-20240913214335997.jpg",
-    "02 Diary/day/20230403_星期一.md",
     "未命名.canvas"
   ]
 }

@@ -21,7 +21,7 @@
   "bookTemplateFile": "template/书籍.md",
   "musicTemplateFile": "",
   "noteTemplateFile": "",
-  "gameTemplateFile": "",
+  "gameTemplateFile": "template/游戏.md",
   "teleplayTemplateFile": "",
   "searchUrl": "https://www.douban.com/search?q=",
   "dateFormat": "yyyy-MM-DD",
