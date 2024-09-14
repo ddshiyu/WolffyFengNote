@@ -11,8 +11,13 @@
             "id": "e0705c084966f360",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "home.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -198,8 +203,10 @@
       "obsidian-weread-plugin:同步微信读书笔记": false
     }
   },
-  "active": "97d1d106572fe357",
+  "active": "e0705c084966f360",
   "lastOpenFiles": [
+    "obsidian 语法.md",
+    "home.md",
     "attachment/资源教程/美食人生/菜谱/饮料/冰粉/冰粉",
     "attachment/资源教程/美食人生/菜谱/主食/烙饼/烙饼",
     "attachment/资源教程/美食人生/菜谱/主食/凉粉/凉粉",
@@ -210,9 +217,7 @@
     "attachment/资源教程/美食人生/菜谱/荤菜/酱牛肉/酱牛肉",
     "attachment/资源教程/美食人生/菜谱/荤菜/酱排骨/酱排骨",
     "attachment/资源教程/美食人生/菜谱/荤菜/血浆鸭/血浆鸭",
-    "attachment/资源教程/美食人生/菜谱/荤菜/荔枝肉/荔枝肉",
     "obsidian收藏.md",
-    "home.md",
     "任务看板.md",
     "attachment/sourceAndTutrial/美食/菜谱/饮料/金菲士/金菲士/IMG-20240913214336011.jpg",
     "attachment/sourceAndTutrial/美食/菜谱/饮料/金汤力/金汤力/IMG-20240913214336009.jpg",
@@ -236,7 +241,6 @@
     "02 Diary/week/2023年第14周总结.md",
     "02 Diary/week/2023年第13周总结.md",
     "02 Diary/参考网站.md",
-    "obsidian 语法.md",
     "workField/计算机/前端/js/JS非常用方法.md",
     "workField/计算机/前端/js/TypeScript.md",
     "workField/计算机/前端/js/JS继承.md",

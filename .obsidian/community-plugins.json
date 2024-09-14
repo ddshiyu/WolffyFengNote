@@ -26,5 +26,9 @@
   "typing-assistant",
   "templater-obsidian",
   "obsidian-weread-plugin",
-  "obsidian-hider"
+  "obsidian-hider",
+  "cmenu-plugin",
+  "webpage-html-export",
+  "remotely-save",
+  "obsidian-advanced-slides"
 ]
