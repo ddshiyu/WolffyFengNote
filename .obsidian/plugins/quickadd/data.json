@@ -33,8 +33,8 @@
       "name": "buhuo",
       "type": "Capture",
       "command": false,
-      "appendLink": false,
-      "captureTo": "",
+      "appendLink": true,
+      "captureTo": "obsidian 语法.md",
       "captureToActiveFile": false,
       "createFileIfItDoesntExist": {
         "enabled": false,
@@ -53,15 +53,15 @@
         "createIfNotFound": false,
         "createIfNotFoundLocation": "top"
       },
-      "prepend": false,
+      "prepend": true,
       "task": false,
       "openFileInNewTab": {
         "enabled": false,
         "direction": "vertical",
         "focus": true
       },
-      "openFile": false,
-      "openFileInMode": "default"
+      "openFile": true,
+      "openFileInMode": "preview"
     }
   ],
   "macros": [],
