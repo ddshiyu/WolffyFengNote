@@ -157,6 +157,57 @@
       ],
       "id": "5caa18f6-b09a-43bc-96a9-a8a22e903e48",
       "name": "阅读"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "lifeStyle/gamming",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "6f361b29-1ae0-4bcf-b127-4a30221a618e",
+          "name": "表格",
+          "type": "table"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "78b572db-1812-4bd7-9f25-434ebe21a76a",
+          "name": "画册",
+          "type": "gallery"
+        }
+      ],
+      "id": "11a6f192-8b42-485c-ae31-e13589d9e02b",
+      "name": "游戏"
     }
   ],
   "archives": [],

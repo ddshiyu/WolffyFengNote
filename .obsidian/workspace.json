@@ -53,10 +53,18 @@
               "type": "markdown",
               "state": {
                 "file": "lifeStyle/gamming/只狼.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
+            }
+          },
+          {
+            "id": "7c92f3b3c7642bdd",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {}
             }
           },
           {
@@ -73,7 +81,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -148,7 +156,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lifeStyle/gamming/只狼.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +172,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lifeStyle/gamming/只狼.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,9 +193,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "lifeStyle/gamming/只狼.md"
-              }
+              "state": {}
             }
           },
           {
@@ -259,15 +263,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "39933f095462b795",
+  "active": "7c92f3b3c7642bdd",
   "lastOpenFiles": [
-    "lifeStyle/reading/图书馆.md",
-    "template/游戏.md",
     "lifeStyle/gamming/只狼.md",
-    "template/日记模板.md",
+    "lifeStyle/reading/图书馆.md",
+    "lifeStyle/reading/读书笔记/态度改变与社会影响（中译本修正版）.md",
     "lifeStyle/reading/读书笔记/受戒.md",
-    "lifeStyle/movie/无间道.md",
     "lifeStyle/reading/读书笔记/2024-04《检索力》【豆瓣评分7.4】.md",
+    "lifeStyle/每周计划.md",
+    "template/游戏.md",
+    "template/日记模板.md",
+    "lifeStyle/movie/无间道.md",
     "template/电影.md",
     "template/书籍.md",
     "template/周记模板.md",
@@ -279,7 +285,6 @@
     "assets/s29960207.jpg",
     "assets/p2564556863.jpg",
     "assets/p2219011938.jpg",
-    "lifeStyle/reading/读书笔记/态度改变与社会影响（中译本修正版）.md",
     "lifeStyle/喜爱的蒸菜.md",
     "lifeStyle/活血化瘀的食物.md",
     "lifeStyle/movie",
