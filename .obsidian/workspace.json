@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "558c1b0e8426a1bf",
+        "id": "1b67935deb806cfb",
         "type": "tabs",
         "children": [
           {
-            "id": "391e39fc356affe4",
+            "id": "71c6940cdc04abfe",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -206,15 +206,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "391e39fc356affe4",
+  "active": "71c6940cdc04abfe",
   "lastOpenFiles": [
     "home.md",
+    "obsidian 语法.md",
     "lifeStyle/reading/图书馆.md",
     "lifeStyle/reading/读书笔记/2024-04《检索力》【豆瓣评分7.4】.md",
     "lifeStyle/reading/读书笔记/受戒.md",
     "lifeStyle/reading/读书笔记/态度改变与社会影响（中译本修正版）.md",
     "任务看板.md",
-    "obsidian 语法.md",
     "这是.md",
     "obsidian收藏.md",
     "record/2024-09-12.md",
