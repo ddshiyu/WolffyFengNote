@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template/电影.md",
+                "file": "lifeStyle/movie/无间道.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "template/电影.md",
+                "file": "lifeStyle/movie/无间道.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "template/电影.md",
+                "file": "lifeStyle/movie/无间道.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "template/电影.md"
+                "file": "lifeStyle/movie/无间道.md"
               }
             }
           },
@@ -220,20 +220,26 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "97d1d106572fe357",
+  "active": "4db65afc0e44199a",
   "lastOpenFiles": [
-    "template/书籍.md",
+    "assets/p2219011938.jpg",
     "template/电影.md",
-    "lifeStyle/活血化瘀的食物.md",
-    "{{image}}.md",
     "template/乐谱.md",
-    "home.md",
+    "template/书籍.md",
+    "template/日记模板.md",
     "template/通用写作模板.md",
     "template/周记模板.md",
-    "lifeStyle/reading/图书馆.md",
-    "lifeStyle/reading/读书笔记/态度改变与社会影响（中译本修正版）.md",
     "lifeStyle/reading/读书笔记/受戒.md",
+    "lifeStyle/reading/读书笔记/态度改变与社会影响（中译本修正版）.md",
     "lifeStyle/reading/读书笔记/2024-04《检索力》【豆瓣评分7.4】.md",
+    "lifeStyle/movie/无间道.md",
+    "lifeStyle/喜爱的蒸菜.md",
+    "assets/p2564556863.jpg",
+    "lifeStyle/活血化瘀的食物.md",
+    "lifeStyle/movie",
+    "{{image}}.md",
+    "home.md",
+    "lifeStyle/reading/图书馆.md",
     "attachment/lifeStyle/reading/图书馆",
     "attachment/lifeStyle/travaling/图书馆",
     "attachment/lifeStyle/travaling",
@@ -241,8 +247,6 @@
     "attachment/lifeStyle/reading/读书笔记",
     "attachment/lifeStyle/reading",
     "attachment/lifeStyle",
-    "template/日记模板.md",
-    "lifeStyle/喜爱的蒸菜.md",
     "attachment/lifeStyle/reading/图书馆/IMG-20240914192139518.jpg",
     "assets/s34022650.jpg",
     "obsidian 语法.md",
@@ -257,17 +261,13 @@
     "attachment/obsidian收藏/IMG-20240913204815732.png",
     "sourceAndTutrial/乐器/夏沫的海.md",
     "attachment/资源教程/美食人生/菜谱/饮料/冰粉/冰粉",
-    "attachment/资源教程/美食人生/菜谱/主食/烙饼/烙饼",
     "attachment/sourceAndTutrial/美食/菜谱/饮料/金菲士/金菲士/IMG-20240913214336011.jpg",
     "attachment/sourceAndTutrial/美食/菜谱/饮料/金汤力/金汤力/IMG-20240913214336009.jpg",
     "attachment/sourceAndTutrial/美食/菜谱/饮料/酸梅汤/酸梅汤/IMG-20240913214336001.jpg",
     "attachment/sourceAndTutrial/美食/菜谱/饮料/菠萝咖啡特调/菠萝咖啡特调/IMG-20240913214335992.png",
     "attachment/sourceAndTutrial/美食/菜谱/饮料/耙耙柑茶/耙耙柑茶/IMG-20240913214335997.jpg",
     "attachment/sourceAndTutrial/美食/菜谱/饮料/百香果橙子特调/百香果橙子特调/IMG-20240913214338152.jpg",
-    "attachment/sourceAndTutrial/美食/菜谱/饮料/砂糖椰子冰沙/砂糖椰子冰沙/IMG-20240913214336005.jpg",
     "02 Diary/day/20230403_星期一.md",
-    "02 Diary/day/20230404_星期二.md",
-    "02 Diary/day/20230402_星期日.md",
     "未命名.canvas"
   ]
 }
