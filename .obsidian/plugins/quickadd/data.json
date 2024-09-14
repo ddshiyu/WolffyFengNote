@@ -46,15 +46,15 @@
         "format": ""
       },
       "insertAfter": {
-        "enabled": false,
+        "enabled": true,
         "after": "",
         "insertAtEnd": false,
         "considerSubsections": false,
         "createIfNotFound": false,
         "createIfNotFoundLocation": "top"
       },
-      "prepend": true,
-      "task": false,
+      "prepend": false,
+      "task": true,
       "openFileInNewTab": {
         "enabled": false,
         "direction": "vertical",

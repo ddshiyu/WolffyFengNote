@@ -26,8 +26,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian 语法.md",
-                "mode": "preview",
+                "file": "这是.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian 语法.md",
+                "file": "这是.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian 语法.md",
+                "file": "这是.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian 语法.md"
+                "file": "这是.md"
               }
             }
           },
@@ -222,10 +222,10 @@
   },
   "active": "391e39fc356affe4",
   "lastOpenFiles": [
-    "这是.md",
-    "obsidian 语法.md",
-    "obsidian收藏.md",
     "任务看板.md",
+    "obsidian 语法.md",
+    "这是.md",
+    "obsidian收藏.md",
     "record/2024-09-12.md",
     "record/2024-09-11.md",
     "home.md",
