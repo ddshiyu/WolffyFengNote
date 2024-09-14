@@ -92,6 +92,19 @@
               "type": "markdown",
               "state": {
                 "file": "template/电影.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "29f3827aacb88170",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lifeStyle/movie/无间道.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -112,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -187,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "template/电影.md",
+                "file": "lifeStyle/movie/无间道.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "template/电影.md",
+                "file": "lifeStyle/movie/无间道.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "template/电影.md"
+                "file": "lifeStyle/movie/无间道.md"
               }
             }
           },
@@ -298,11 +311,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "fe2f0dd1721b9175",
+  "active": "29f3827aacb88170",
   "lastOpenFiles": [
+    "template/电影.md",
+    "lifeStyle/movie/无间道.md",
+    "lifeStyle/reading/读书笔记/2024-04《检索力》【豆瓣评分7.4】.md",
     "lifeStyle/gamming/只狼.md",
     "template/书籍.md",
-    "lifeStyle/reading/读书笔记/2024-04《检索力》【豆瓣评分7.4】.md",
     "lifeStyle/reading/读书笔记/图书馆.md",
     "lifeStyle/reading/读书笔记/受戒.md",
     "lifeStyle/reading/读书笔记/态度改变与社会影响（中译本修正版）.md",
@@ -311,8 +326,6 @@
     "lifeStyle/每周计划.md",
     "template/游戏.md",
     "template/日记模板.md",
-    "lifeStyle/movie/无间道.md",
-    "template/电影.md",
     "template/周记模板.md",
     "{{image}}.md",
     "template/乐谱.md",
