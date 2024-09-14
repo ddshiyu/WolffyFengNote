@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "87d4c4b7d69e3b16",
+        "id": "50a1148ca99720da",
         "type": "tabs",
         "children": [
           {
-            "id": "e0705c084966f360",
+            "id": "0191386190c5ea79",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home.md",
+                "file": "obsidian 语法.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home.md",
+                "file": "obsidian 语法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "home.md",
+                "file": "obsidian 语法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "home.md"
+                "file": "obsidian 语法.md"
               }
             }
           },
@@ -200,12 +200,22 @@
       "obsidian-kanban:创建新看板": false,
       "obsidian-projects:打开项目": false,
       "templater-obsidian:Templater": false,
-      "obsidian-weread-plugin:同步微信读书笔记": false
+      "obsidian-weread-plugin:同步微信读书笔记": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "e0705c084966f360",
+  "active": "97d1d106572fe357",
   "lastOpenFiles": [
+    "任务看板.md",
     "obsidian 语法.md",
+    "obsidian收藏.md",
+    "template/通用写作模板.md",
+    "template/乐谱.md",
+    "attachment/obsidian收藏/IMG-20240913204815732.png",
+    "template/日记模板.md",
+    "sourceAndTutrial/乐器/夏沫的海.md",
     "home.md",
     "attachment/资源教程/美食人生/菜谱/饮料/冰粉/冰粉",
     "attachment/资源教程/美食人生/菜谱/主食/烙饼/烙饼",
@@ -217,8 +227,6 @@
     "attachment/资源教程/美食人生/菜谱/荤菜/酱牛肉/酱牛肉",
     "attachment/资源教程/美食人生/菜谱/荤菜/酱排骨/酱排骨",
     "attachment/资源教程/美食人生/菜谱/荤菜/血浆鸭/血浆鸭",
-    "obsidian收藏.md",
-    "任务看板.md",
     "attachment/sourceAndTutrial/美食/菜谱/饮料/金菲士/金菲士/IMG-20240913214336011.jpg",
     "attachment/sourceAndTutrial/美食/菜谱/饮料/金汤力/金汤力/IMG-20240913214336009.jpg",
     "attachment/sourceAndTutrial/美食/菜谱/饮料/酸梅汤/酸梅汤/IMG-20240913214336001.jpg",
@@ -228,7 +236,6 @@
     "attachment/sourceAndTutrial/美食/菜谱/饮料/砂糖椰子冰沙/砂糖椰子冰沙/IMG-20240913214336005.jpg",
     "attachment/sourceAndTutrial/美食/菜谱/饮料/百香果橙子特调/百香果橙子特调/IMG-20240913214336015.jpg",
     "attachment/sourceAndTutrial/美食/菜谱/饮料/泰国手标红茶/泰国手标红茶/IMG-20240913214336006.jpg",
-    "attachment/sourceAndTutrial/美食/菜谱/饮料/奇异果菠菜特调/奇异果菠菜特调/IMG-20240913214335954.jpg",
     "02 Diary/day/20230403_星期一.md",
     "02 Diary/day/20230404_星期二.md",
     "02 Diary/day/20230402_星期日.md",
@@ -247,9 +254,6 @@
     "workField/计算机/前端/小程序/小程序笔记.md",
     "workField/计算机/前端/css/读《CSS世界》.md",
     "workField/计算机/前端/css/盒模型.md",
-    "workField/计算机/前端/css/svg.md",
-    "workField/计算机/前端/css/css技巧.md",
-    "workField/计算机/工具/搜索技巧.md",
     "未命名.canvas"
   ]
 }
