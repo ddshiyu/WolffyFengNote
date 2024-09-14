@@ -1,7 +1,7 @@
 ---
 banner: "![[IMG-20240910225959113.jpeg]]"
 ---
-
+****
 # 一、dataview
 
 1. 数据库分为三种形式：list、table和task

@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiCloudy",
-      "LiPencil",
-      "LiAccessibility",
-      "LiExcalidrawIcon",
-      "LiPictureInPicture2"
+      "LiWorkflow",
+      "LiTabletSmartphone",
+      "📚",
+      "LiBook",
+      "LiCloudRain"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -36,5 +36,9 @@
   "assets": "LiPictureInPicture2",
   "attachment": "LiPictureInPicture2",
   "Excalidraw": "LiPencil",
-  "lifeStyle": "LiCloudy"
+  "lifeStyle": "LiCloudRain",
+  "record": "LiBook",
+  "sourceAndTutrial": "📚",
+  "template": "LiTabletSmartphone",
+  "workField": "LiWorkflow"
 }

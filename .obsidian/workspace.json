@@ -8,38 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "68246984bdedab77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OB_Template-main/0A_Templates/0A_6_Books/0A_6_1_Books.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a31215998d06c045",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "lifeStyle/gamming/荒野大镖客：救赎 2.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e626cdbfa6a3f2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lifeStyle/reading/乔布斯传.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -57,19 +31,6 @@
             }
           },
           {
-            "id": "6118295b6c7b0ab6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lifeStyle/gamming/只狼.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "260ed785a930218b",
             "type": "leaf",
             "state": {
@@ -83,33 +44,7 @@
             }
           },
           {
-            "id": "39933f095462b795",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lifeStyle/gamming/只狼.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7c92f3b3c7642bdd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lifeStyle/gamming/只狼.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "828e2bf46a4d8584",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -135,32 +70,20 @@
             }
           },
           {
-            "id": "29f3827aacb88170",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "template/电影.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a2b632bfed41d293",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template/游戏.md",
+                "file": "obsidian 语法.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -235,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OB_Template-main/0A_Templates/0A_6_Books/0A_6_1_Books.md",
+                "file": "obsidian 语法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OB_Template-main/0A_Templates/0A_6_Books/0A_6_1_Books.md",
+                "file": "obsidian 语法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -275,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OB_Template-main/0A_Templates/0A_6_Books/0A_6_1_Books.md"
+                "file": "obsidian 语法.md"
               }
             }
           },
@@ -346,17 +269,31 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "97d1d106572fe357",
+  "active": "a2b632bfed41d293",
   "lastOpenFiles": [
+    "home.md",
+    "obsidian 语法.md",
+    "Excalidraw/Drawing 2024-09-14 22.00.53.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-13 21.37.17.excalidraw.md",
+    "attachment/obsidian 语法/IMG-20240914220027389.jpg",
+    "attachment/obsidian 语法",
+    "record/2024-09-12.md",
+    "record/2024-09-11.md",
+    "attachment/record/2024-09-11/IMG-20240914215941913.jpg",
+    "attachment/record/2024-09-11",
+    "attachment/record",
+    "record/2024-09-14.md",
+    "record/2024-09-15.md",
+    "2d35980d82ae7ce097231116a73e54d32c684feb.png",
+    "attachment/sourceAndTutrial/乐器/夏沫的海/IMG-20240913214320377.png",
+    "template/电影.md",
     "任务看板.md",
+    "template/周记模板.md",
     "OB_Template-main/0A_Templates/0A_6_Books/0A_6_1_Books.md",
+    "template/乐谱.md",
     "template/书籍.md",
     "template/2023年第14周总结.md",
     "template/游戏.md",
-    "template/电影.md",
-    "template/乐谱.md",
-    "obsidian 语法.md",
-    "home.md",
     "02 Diary/参考网站.md",
     "02 Diary/week/2023年第13周总结.md",
     "20230404_星期二.md",
@@ -368,32 +305,18 @@
     "02 Diary/day/20230404_星期二.md",
     "02 Diary/day/20230331_星期五.md",
     "02 Diary/day/20230327_星期一.md",
-    "02 Diary/day/20230328_星期二.md",
-    "02 Diary/day/20230402_星期日.md",
-    "workField/创作/写作投稿/【超详细】我的装机必备软件.md",
-    "workField/创作/写作投稿/100件事.md",
-    "workField/创作/写作投稿/国外新闻网.md",
-    "workField/创作/写作投稿/计划.md",
-    "workField/创作/写作投稿/鉴于目前环境，给年轻人一些建议.md",
     "日记",
     "assets/s34867980.jpg",
     "assets/s34490180.jpg",
     "assets/s29960207.jpg",
     "assets/s29756927.jpg",
     "assets/p477229647.jpg",
-    "attachment/lifeStyle/reading/检索力/IMG-20240914211519227.jpg",
-    "attachment/IMG-20240910225959113.jpeg",
     "attachment/lifeStyle/reading/检索力",
     "attachment/lifeStyle/reading",
     "attachment/lifeStyle",
-    "attachment/lifeStyle/reading/图书馆/IMG-20240914210740534.jpg",
     "attachment/lifeStyle/reading/图书馆",
-    "assets/s34022650.jpg",
     "attachment/lifeStyle/reading/读书笔记/图书馆",
     "lifeStyle/movie",
-    "attachment/lifeStyle/travaling/图书馆",
-    "attachment/lifeStyle/travaling",
-    "attachment/lifeStyle/reading/读书笔记",
     "未命名.canvas"
   ]
 }
