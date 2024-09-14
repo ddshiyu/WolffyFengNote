@@ -190,7 +190,10 @@
           "type": "table"
         },
         {
-          "config": {},
+          "config": {
+            "coverField": "cover",
+            "fitStyle": "cover"
+          },
           "filter": {
             "conjunction": "and",
             "conditions": []
