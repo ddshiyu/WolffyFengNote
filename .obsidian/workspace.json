@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template/电影.md",
+                "file": "lifeStyle/reading/图书馆.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -53,6 +53,19 @@
               "type": "markdown",
               "state": {
                 "file": "lifeStyle/gamming/只狼.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a2b632bfed41d293",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "template/游戏.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -248,29 +261,29 @@
   },
   "active": "39933f095462b795",
   "lastOpenFiles": [
+    "lifeStyle/reading/图书馆.md",
+    "template/游戏.md",
+    "lifeStyle/gamming/只狼.md",
+    "template/日记模板.md",
+    "lifeStyle/reading/读书笔记/受戒.md",
+    "lifeStyle/movie/无间道.md",
+    "lifeStyle/reading/读书笔记/2024-04《检索力》【豆瓣评分7.4】.md",
+    "template/电影.md",
+    "template/书籍.md",
+    "template/周记模板.md",
+    "{{image}}.md",
+    "template/乐谱.md",
+    "template/通用写作模板.md",
     "assets/s29756927.jpg",
     "assets/s34022650.jpg",
     "assets/s29960207.jpg",
     "assets/p2564556863.jpg",
     "assets/p2219011938.jpg",
-    "lifeStyle/gamming/只狼.md",
-    "template/游戏.md",
-    "lifeStyle/movie/无间道.md",
-    "template/书籍.md",
-    "{{image}}.md",
-    "template/电影.md",
-    "template/通用写作模板.md",
-    "template/乐谱.md",
-    "lifeStyle/reading/读书笔记/受戒.md",
     "lifeStyle/reading/读书笔记/态度改变与社会影响（中译本修正版）.md",
-    "lifeStyle/reading/读书笔记/2024-04《检索力》【豆瓣评分7.4】.md",
-    "template/日记模板.md",
-    "template/周记模板.md",
     "lifeStyle/喜爱的蒸菜.md",
     "lifeStyle/活血化瘀的食物.md",
     "lifeStyle/movie",
     "home.md",
-    "lifeStyle/reading/图书馆.md",
     "attachment/lifeStyle/reading/图书馆",
     "attachment/lifeStyle/travaling/图书馆",
     "attachment/lifeStyle/travaling",
@@ -293,7 +306,6 @@
     "attachment/sourceAndTutrial/美食/菜谱/饮料/金菲士/金菲士/IMG-20240913214336011.jpg",
     "attachment/sourceAndTutrial/美食/菜谱/饮料/金汤力/金汤力/IMG-20240913214336009.jpg",
     "attachment/sourceAndTutrial/美食/菜谱/饮料/酸梅汤/酸梅汤/IMG-20240913214336001.jpg",
-    "attachment/sourceAndTutrial/美食/菜谱/饮料/菠萝咖啡特调/菠萝咖啡特调/IMG-20240913214335992.png",
     "未命名.canvas"
   ]
 }
