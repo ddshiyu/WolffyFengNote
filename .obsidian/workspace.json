@@ -26,7 +26,33 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "template/电影.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a31215998d06c045",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "lifeStyle/movie/无间道.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "39933f095462b795",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "template/电影.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -220,19 +246,19 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4db65afc0e44199a",
+  "active": "a31215998d06c045",
   "lastOpenFiles": [
-    "assets/p2219011938.jpg",
     "template/电影.md",
-    "template/乐谱.md",
-    "template/书籍.md",
-    "template/日记模板.md",
-    "template/通用写作模板.md",
-    "template/周记模板.md",
+    "lifeStyle/movie/无间道.md",
     "lifeStyle/reading/读书笔记/受戒.md",
     "lifeStyle/reading/读书笔记/态度改变与社会影响（中译本修正版）.md",
+    "template/书籍.md",
     "lifeStyle/reading/读书笔记/2024-04《检索力》【豆瓣评分7.4】.md",
-    "lifeStyle/movie/无间道.md",
+    "template/日记模板.md",
+    "template/乐谱.md",
+    "assets/p2219011938.jpg",
+    "template/通用写作模板.md",
+    "template/周记模板.md",
     "lifeStyle/喜爱的蒸菜.md",
     "assets/p2564556863.jpg",
     "lifeStyle/活血化瘀的食物.md",
@@ -266,7 +292,6 @@
     "attachment/sourceAndTutrial/美食/菜谱/饮料/酸梅汤/酸梅汤/IMG-20240913214336001.jpg",
     "attachment/sourceAndTutrial/美食/菜谱/饮料/菠萝咖啡特调/菠萝咖啡特调/IMG-20240913214335992.png",
     "attachment/sourceAndTutrial/美食/菜谱/饮料/耙耙柑茶/耙耙柑茶/IMG-20240913214335997.jpg",
-    "attachment/sourceAndTutrial/美食/菜谱/饮料/百香果橙子特调/百香果橙子特调/IMG-20240913214338152.jpg",
     "02 Diary/day/20230403_星期一.md",
     "未命名.canvas"
   ]
