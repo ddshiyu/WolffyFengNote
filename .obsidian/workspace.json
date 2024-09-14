@@ -39,7 +39,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lifeStyle/movie/无间道.md",
+                "file": "lifeStyle/movie/美国往事.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6118295b6c7b0ab6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lifeStyle/gamming/只狼.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "260ed785a930218b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lifeStyle/gamming/荒野大镖客：救赎 2.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -104,7 +130,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lifeStyle/movie/无间道.md",
+                "file": "template/电影.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -125,7 +151,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -200,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lifeStyle/movie/无间道.md",
+                "file": "lifeStyle/gamming/荒野大镖客：救赎 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lifeStyle/movie/无间道.md",
+                "file": "lifeStyle/gamming/荒野大镖客：救赎 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lifeStyle/movie/无间道.md"
+                "file": "lifeStyle/gamming/荒野大镖客：救赎 2.md"
               }
             }
           },
@@ -288,7 +314,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 437.5
+    "width": 231.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -311,25 +337,27 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "29f3827aacb88170",
+  "active": "260ed785a930218b",
   "lastOpenFiles": [
-    "template/电影.md",
-    "lifeStyle/movie/无间道.md",
-    "lifeStyle/reading/读书笔记/2024-04《检索力》【豆瓣评分7.4】.md",
+    "template/游戏.md",
+    "lifeStyle/gamming/荒野大镖客：救赎 2.md",
     "lifeStyle/gamming/只狼.md",
     "template/书籍.md",
+    "template/通用写作模板.md",
+    "template/日记模板.md",
+    "template/乐谱.md",
+    "template/电影.md",
     "lifeStyle/reading/读书笔记/图书馆.md",
-    "lifeStyle/reading/读书笔记/受戒.md",
+    "lifeStyle/movie/美国往事.md",
+    "assets/p477229647.jpg",
+    "lifeStyle/reading/读书笔记/2024-04《检索力》【豆瓣评分7.4】.md",
     "lifeStyle/reading/读书笔记/态度改变与社会影响（中译本修正版）.md",
+    "lifeStyle/reading/读书笔记/受戒.md",
     "attachment/lifeStyle/reading/读书笔记/图书馆",
     "lifeStyle/喜爱的蒸菜.md",
     "lifeStyle/每周计划.md",
-    "template/游戏.md",
-    "template/日记模板.md",
     "template/周记模板.md",
     "{{image}}.md",
-    "template/乐谱.md",
-    "template/通用写作模板.md",
     "assets/s29756927.jpg",
     "assets/s34022650.jpg",
     "assets/s29960207.jpg",
@@ -357,7 +385,6 @@
     "attachment/资源教程/美食人生/菜谱/饮料/冰粉/冰粉",
     "attachment/sourceAndTutrial/美食/菜谱/饮料/金菲士/金菲士/IMG-20240913214336011.jpg",
     "attachment/sourceAndTutrial/美食/菜谱/饮料/金汤力/金汤力/IMG-20240913214336009.jpg",
-    "attachment/sourceAndTutrial/美食/菜谱/饮料/酸梅汤/酸梅汤/IMG-20240913214336001.jpg",
     "未命名.canvas"
   ]
 }
