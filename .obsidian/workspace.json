@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template/游戏.md",
+                "file": "OB_Template-main/0A_Templates/0A_6_Books/0A_6_1_Books.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -235,7 +235,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "template/游戏.md",
+                "file": "OB_Template-main/0A_Templates/0A_6_Books/0A_6_1_Books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,7 +252,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "template/游戏.md",
+                "file": "OB_Template-main/0A_Templates/0A_6_Books/0A_6_1_Books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -275,7 +275,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "template/游戏.md"
+                "file": "OB_Template-main/0A_Templates/0A_6_Books/0A_6_1_Books.md"
               }
             }
           },
@@ -346,9 +346,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "68246984bdedab77",
+  "active": "97d1d106572fe357",
   "lastOpenFiles": [
+    "任务看板.md",
+    "OB_Template-main/0A_Templates/0A_6_Books/0A_6_1_Books.md",
+    "template/书籍.md",
     "template/2023年第14周总结.md",
+    "template/游戏.md",
+    "template/电影.md",
+    "template/乐谱.md",
     "obsidian 语法.md",
     "home.md",
     "02 Diary/参考网站.md",
@@ -369,12 +375,6 @@
     "workField/创作/写作投稿/国外新闻网.md",
     "workField/创作/写作投稿/计划.md",
     "workField/创作/写作投稿/鉴于目前环境，给年轻人一些建议.md",
-    "workField/创作/写作投稿/如何高效使用搜索引擎.md",
-    "workField/创作/写作投稿/重大更新，Windows 可直接运行手机APP.md",
-    "workField/创作/写作投稿/行业劝退.md",
-    "workField/创作/写作投稿/如何让周末过的更充实.md",
-    "workField/创作/写作投稿/朋友的成功会让你感到焦虑吗.md",
-    "template/通用写作模板.md",
     "日记",
     "assets/s34867980.jpg",
     "assets/s34490180.jpg",

@@ -6,7 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiFile"
+      "LiCloudy",
+      "LiPencil",
+      "LiAccessibility",
+      "LiExcalidrawIcon",
+      "LiPictureInPicture2"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -28,5 +32,9 @@
     "iconIdentifier": ":",
     "lucideIconPackType": "native",
     "debugMode": false
-  }
+  },
+  "assets": "LiPictureInPicture2",
+  "attachment": "LiPictureInPicture2",
+  "Excalidraw": "LiPencil",
+  "lifeStyle": "LiCloudy"
 }
