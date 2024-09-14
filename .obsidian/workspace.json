@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template/电影.md",
+                "file": "{{image}}.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lifeStyle/movie/无间道.md",
+                "file": "{{image}}.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lifeStyle/movie/无间道.md",
+                "file": "{{image}}.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lifeStyle/movie/无间道.md"
+                "file": "{{image}}.md"
               }
             }
           },
@@ -246,24 +246,25 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a31215998d06c045",
+  "active": "39933f095462b795",
   "lastOpenFiles": [
+    "template/游戏.md",
+    "{{image}}.md",
     "template/电影.md",
+    "template/通用写作模板.md",
+    "template/书籍.md",
+    "template/乐谱.md",
     "lifeStyle/movie/无间道.md",
     "lifeStyle/reading/读书笔记/受戒.md",
     "lifeStyle/reading/读书笔记/态度改变与社会影响（中译本修正版）.md",
-    "template/书籍.md",
     "lifeStyle/reading/读书笔记/2024-04《检索力》【豆瓣评分7.4】.md",
     "template/日记模板.md",
-    "template/乐谱.md",
     "assets/p2219011938.jpg",
-    "template/通用写作模板.md",
     "template/周记模板.md",
     "lifeStyle/喜爱的蒸菜.md",
     "assets/p2564556863.jpg",
     "lifeStyle/活血化瘀的食物.md",
     "lifeStyle/movie",
-    "{{image}}.md",
     "home.md",
     "lifeStyle/reading/图书馆.md",
     "attachment/lifeStyle/reading/图书馆",
