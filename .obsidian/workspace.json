@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "836434c69d8f5546",
+        "id": "b5d589c3d3541446",
         "type": "tabs",
         "children": [
           {
-            "id": "1081aff1b7ba7b32",
+            "id": "68246984bdedab77",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lifeStyle/reading/读书笔记/2024-04《检索力》【豆瓣评分7.4】.md",
+                "file": "lifeStyle/reading/读书笔记/态度改变与社会影响（中译本修正版）.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4db65afc0e44199a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "template/电影.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lifeStyle/reading/读书笔记/2024-04《检索力》【豆瓣评分7.4】.md",
+                "file": "template/电影.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lifeStyle/reading/读书笔记/2024-04《检索力》【豆瓣评分7.4】.md",
+                "file": "template/电影.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lifeStyle/reading/读书笔记/2024-04《检索力》【豆瓣评分7.4】.md"
+                "file": "template/电影.md"
               }
             }
           },
@@ -206,39 +220,44 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1081aff1b7ba7b32",
+  "active": "97d1d106572fe357",
   "lastOpenFiles": [
-    "lifeStyle/reading/读书笔记/受戒.md",
-    "lifeStyle/reading/读书笔记/态度改变与社会影响（中译本修正版）.md",
-    "lifeStyle/reading/图书馆.md",
-    "lifeStyle/reading/读书笔记/2024-04《检索力》【豆瓣评分7.4】.md",
-    "obsidian 语法.md",
+    "template/书籍.md",
+    "template/电影.md",
+    "lifeStyle/活血化瘀的食物.md",
+    "{{image}}.md",
+    "template/乐谱.md",
     "home.md",
+    "template/通用写作模板.md",
+    "template/周记模板.md",
+    "lifeStyle/reading/图书馆.md",
+    "lifeStyle/reading/读书笔记/态度改变与社会影响（中译本修正版）.md",
+    "lifeStyle/reading/读书笔记/受戒.md",
+    "lifeStyle/reading/读书笔记/2024-04《检索力》【豆瓣评分7.4】.md",
+    "attachment/lifeStyle/reading/图书馆",
+    "attachment/lifeStyle/travaling/图书馆",
+    "attachment/lifeStyle/travaling",
+    "attachment/lifeStyle/reading/读书笔记/图书馆",
+    "attachment/lifeStyle/reading/读书笔记",
+    "attachment/lifeStyle/reading",
+    "attachment/lifeStyle",
+    "template/日记模板.md",
+    "lifeStyle/喜爱的蒸菜.md",
+    "attachment/lifeStyle/reading/图书馆/IMG-20240914192139518.jpg",
+    "assets/s34022650.jpg",
+    "obsidian 语法.md",
     "任务看板.md",
     "obsidian收藏.md",
     "Projects - Demo Project/The Best Notes You'll Ever Make.md",
     "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
-    "assets/s33473798.jpg",
-    "lifeStyle/活血化瘀的食物.md",
-    "assets/s34022650.jpg",
     "assets",
     "这是.md",
     "record/2024-09-12.md",
     "record/2024-09-11.md",
-    "template/通用写作模板.md",
-    "template/乐谱.md",
     "attachment/obsidian收藏/IMG-20240913204815732.png",
-    "template/日记模板.md",
     "sourceAndTutrial/乐器/夏沫的海.md",
     "attachment/资源教程/美食人生/菜谱/饮料/冰粉/冰粉",
     "attachment/资源教程/美食人生/菜谱/主食/烙饼/烙饼",
-    "attachment/资源教程/美食人生/菜谱/主食/凉粉/凉粉",
-    "attachment/资源教程/美食人生/菜谱/饮料/金菲士/金菲士",
-    "attachment/资源教程/美食人生/菜谱/饮料/金汤力/金汤力",
-    "attachment/资源教程/美食人生/菜谱/饮料/酸梅汤/酸梅汤",
-    "attachment/资源教程/美食人生/菜谱/荤菜/醉排骨/醉排骨",
-    "attachment/资源教程/美食人生/菜谱/荤菜/酱牛肉/酱牛肉",
-    "attachment/资源教程/美食人生/菜谱/荤菜/酱排骨/酱排骨",
     "attachment/sourceAndTutrial/美食/菜谱/饮料/金菲士/金菲士/IMG-20240913214336011.jpg",
     "attachment/sourceAndTutrial/美食/菜谱/饮料/金汤力/金汤力/IMG-20240913214336009.jpg",
     "attachment/sourceAndTutrial/美食/菜谱/饮料/酸梅汤/酸梅汤/IMG-20240913214336001.jpg",
@@ -249,11 +268,6 @@
     "02 Diary/day/20230403_星期一.md",
     "02 Diary/day/20230404_星期二.md",
     "02 Diary/day/20230402_星期日.md",
-    "02 Diary/day/20230401_星期六.md",
-    "02 Diary/day/20230331_星期五.md",
-    "02 Diary/day/20230330_星期四.md",
-    "02 Diary/day/20230329_星期三.md",
-    "02 Diary/day/20230328_星期二.md",
     "未命名.canvas"
   ]
 }

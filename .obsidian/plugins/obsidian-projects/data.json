@@ -136,7 +136,9 @@
         },
         {
           "config": {
-            "coverField": "cover"
+            "coverField": "cover",
+            "fitStyle": "contain",
+            "includeFields": []
           },
           "filter": {
             "conjunction": "and",
