@@ -118,7 +118,7 @@ Here you can find a general list of all the template types:
 
 17. <a href="https://github.com/llZektorll/OB_Template/blob/main/0A_Templates/0A_17_WordDictionary/0A_17_1_WordDictionary.md">Word Dictionary </a> - Template to create a dictionary of Words / Acronyms
 
-99. <a href="https://github.com/llZektorll/OB_Template/tree/main/0A_Templates/0A_99_Index">Index </a> - Template to create an index for your vault
+18. <a href="https://github.com/llZektorll/OB_Template/tree/main/0A_Templates/0A_99_Index">Index </a> - Template to create an index for your vault
 
 
 </details>
@@ -167,10 +167,10 @@ A: For any queries please head to the Obsidian forum and check the <a href="http
 
 This file structure is designed to fit my need, I will leave a brief explanation on how it works.
 
-1. All folder start with "0" followed by a letter Since this is my main note system it's value is 0, the letter determines the folder main branch.
+1. All folder start with "0" followed by a letter Since this is my main note system it's value is 0, the letter determines the folder main branch.  
 EX: 0A_Template. "0" -> Root notes folder "A" -> First vault folder "Templates" -> Main type of information
 
-2. All the files carry the information from it's hierarchy.
+2. All the files carry the information from it's hierarchy.  
 EX: 0A_1_1_DailyLog, "0" -> Root notes folder "A" -> First vault folder "1" -> first sub-folder in the vault "1" -> First file "DailyLog" -> File Name
 
 </details>

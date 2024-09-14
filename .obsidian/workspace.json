@@ -11,22 +11,19 @@
             "id": "68246984bdedab77",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "lifeStyle/reading/态度改变与社会影响（中译本修正版）.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "attachment/obsidian收藏/IMG-20240913204815732.png"
               }
             }
           },
           {
-            "id": "4db65afc0e44199a",
+            "id": "3c685d5368f311eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lifeStyle/reading/2024-04《检索力》【豆瓣评分7.4】.md",
+                "file": "template/日记模板.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -63,12 +60,9 @@
             "id": "a689901bd3779a39",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "lifeStyle/reading/2024-04《检索力》【豆瓣评分7.4】.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "assets/s29960207.jpg"
               }
             }
           },
@@ -177,7 +171,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,7 +200,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tp.",
+                "query": "20240914211519227",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -252,7 +246,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lifeStyle/reading/2024-04《检索力》【豆瓣评分7.4】.md",
+                "file": "template/日记模板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -269,7 +263,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lifeStyle/reading/2024-04《检索力》【豆瓣评分7.4】.md",
+                "file": "template/日记模板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -292,7 +286,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lifeStyle/reading/2024-04《检索力》【豆瓣评分7.4】.md"
+                "file": "template/日记模板.md"
               }
             }
           },
@@ -321,7 +315,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       },
       {
         "id": "76e6c4018a5a125c",
@@ -340,7 +334,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 451.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -363,32 +357,43 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a689901bd3779a39",
+  "active": "97d1d106572fe357",
   "lastOpenFiles": [
-    "lifeStyle/reading/2024-04《检索力》【豆瓣评分7.4】.md",
-    "lifeStyle/movie/美国往事.md",
-    "lifeStyle/reading/乔布斯传.md",
-    "assets/s34490180.jpg",
+    "日记/2024-09-14.md",
+    "template/乐谱.md",
+    "template/游戏.md",
+    "template/电影.md",
+    "record/2024-09-11.md",
+    "日记",
+    "record/2024-09-12.md",
+    "lifeStyle/reading/检索力.md",
+    "attachment/obsidian收藏/IMG-20240913204815732.png",
+    "任务看板.md",
     "lifeStyle/reading/态度改变与社会影响（中译本修正版）.md",
-    "lifeStyle/reading/受戒.md",
+    "assets/s34867980.jpg",
+    "assets/s34490180.jpg",
+    "assets/s29960207.jpg",
+    "assets/s29756927.jpg",
     "assets/p477229647.jpg",
-    "attachment/lifeStyle/reading/图书馆/IMG-20240914210740534.jpg",
     "lifeStyle/gamming/荒野大镖客：救赎 2.md",
+    "OB_Template-main/README.md",
+    "attachment/lifeStyle/reading/检索力/IMG-20240914211519227.jpg",
+    "attachment/IMG-20240910225959113.jpeg",
+    "lifeStyle/reading/乔布斯传.md",
+    "lifeStyle/movie/美国往事.md",
+    "lifeStyle/gamming/只狼.md",
+    "attachment/lifeStyle/reading/检索力",
+    "attachment/lifeStyle/reading",
+    "attachment/lifeStyle",
+    "lifeStyle/reading/受戒.md",
+    "attachment/lifeStyle/reading/图书馆/IMG-20240914210740534.jpg",
     "template/书籍.md",
     "template/日记模板.md",
-    "template/乐谱.md",
-    "template/电影.md",
     "template/周记模板.md",
-    "template/游戏.md",
     "lifeStyle/reading/图书馆.md",
-    "lifeStyle/gamming/只狼.md",
     "attachment/lifeStyle/reading/图书馆",
     "lifeStyle/活血化瘀的食物.md",
-    "assets/s29960207.jpg",
     "assets/s34022650.jpg",
-    "assets/s29756927.jpg",
-    "assets/p2564556863.jpg",
-    "assets/p2219011938.jpg",
     "obsidian 语法.md",
     "Projects - Demo Project/The Easiest Way to Start Taking Notes.md",
     "Projects - Demo Project/What I Learned From Taking 15,000 Notes.md",
@@ -396,20 +401,10 @@
     "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
     "template/通用写作模板.md",
     "attachment/lifeStyle/reading/读书笔记/图书馆",
-    "lifeStyle/喜爱的蒸菜.md",
-    "lifeStyle/每周计划.md",
-    "{{image}}.md",
     "lifeStyle/movie",
-    "home.md",
     "attachment/lifeStyle/travaling/图书馆",
     "attachment/lifeStyle/travaling",
     "attachment/lifeStyle/reading/读书笔记",
-    "attachment/lifeStyle/reading",
-    "attachment/lifeStyle",
-    "assets",
-    "attachment/obsidian收藏/IMG-20240913204815732.png",
-    "attachment/资源教程/美食人生/菜谱/饮料/冰粉/冰粉",
-    "attachment/sourceAndTutrial/美食/菜谱/饮料/金菲士/金菲士/IMG-20240913214336011.jpg",
     "未命名.canvas"
   ]
 }
