@@ -33,7 +33,7 @@ dv.paragraph(totalDays+inputMd+outputMd+paperMd)
 # ⌛今日代办
 
 ```dataview
-task from "日记"
+task from "record"
 where !completed
 ```
 
