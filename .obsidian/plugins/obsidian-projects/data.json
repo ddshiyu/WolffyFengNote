@@ -112,20 +112,14 @@
       "dataSource": {
         "kind": "folder",
         "config": {
-          "path": "阅读/读书笔记",
+          "path": "lifeStyle/reading/读书笔记",
           "recursive": false
         }
       },
       "newNotesFolder": "",
       "views": [
         {
-          "config": {
-            "fieldConfig": {
-              "bookId": {
-                "width": 211
-              }
-            }
-          },
+          "config": {},
           "filter": {
             "conjunction": "and",
             "conditions": []
@@ -136,7 +130,7 @@
           "sort": {
             "criteria": []
           },
-          "id": "ec6c0b66-8e1d-445f-9781-cb9e28737649",
+          "id": "79362f1a-31a4-48c1-bdb6-f26ee794a38d",
           "name": "表格",
           "type": "table"
         },
@@ -154,12 +148,12 @@
           "sort": {
             "criteria": []
           },
-          "id": "6d1b1df8-d560-4ce4-a79d-0dc5db8ab4e2",
+          "id": "948febe1-76e4-4504-9b69-6190df169e00",
           "name": "画册",
           "type": "gallery"
         }
       ],
-      "id": "bcc0fecd-b49b-49db-b6b8-7bacb10f175b",
+      "id": "5caa18f6-b09a-43bc-96a9-a8a22e903e48",
       "name": "阅读"
     }
   ],

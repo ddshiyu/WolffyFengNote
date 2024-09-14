@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1b67935deb806cfb",
+        "id": "836434c69d8f5546",
         "type": "tabs",
         "children": [
           {
-            "id": "71c6940cdc04abfe",
+            "id": "1081aff1b7ba7b32",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lifeStyle/reading/图书馆.md",
+                "file": "lifeStyle/reading/读书笔记/2024-04《检索力》【豆瓣评分7.4】.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lifeStyle/reading/图书馆.md",
+                "file": "lifeStyle/reading/读书笔记/2024-04《检索力》【豆瓣评分7.4】.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lifeStyle/reading/图书馆.md",
+                "file": "lifeStyle/reading/读书笔记/2024-04《检索力》【豆瓣评分7.4】.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lifeStyle/reading/图书馆.md"
+                "file": "lifeStyle/reading/读书笔记/2024-04《检索力》【豆瓣评分7.4】.md"
               }
             }
           },
@@ -206,19 +206,23 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "71c6940cdc04abfe",
+  "active": "1081aff1b7ba7b32",
   "lastOpenFiles": [
-    "lifeStyle/reading/读书笔记/2024-04《检索力》【豆瓣评分7.4】.md",
-    "lifeStyle/reading/读书笔记/态度改变与社会影响（中译本修正版）.md",
     "lifeStyle/reading/读书笔记/受戒.md",
+    "lifeStyle/reading/读书笔记/态度改变与社会影响（中译本修正版）.md",
     "lifeStyle/reading/图书馆.md",
+    "lifeStyle/reading/读书笔记/2024-04《检索力》【豆瓣评分7.4】.md",
+    "obsidian 语法.md",
+    "home.md",
     "任务看板.md",
+    "obsidian收藏.md",
+    "Projects - Demo Project/The Best Notes You'll Ever Make.md",
+    "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
+    "assets/s33473798.jpg",
+    "lifeStyle/活血化瘀的食物.md",
     "assets/s34022650.jpg",
     "assets",
-    "home.md",
-    "obsidian 语法.md",
     "这是.md",
-    "obsidian收藏.md",
     "record/2024-09-12.md",
     "record/2024-09-11.md",
     "template/通用写作模板.md",
@@ -242,7 +246,6 @@
     "attachment/sourceAndTutrial/美食/菜谱/饮料/耙耙柑茶/耙耙柑茶/IMG-20240913214335997.jpg",
     "attachment/sourceAndTutrial/美食/菜谱/饮料/百香果橙子特调/百香果橙子特调/IMG-20240913214338152.jpg",
     "attachment/sourceAndTutrial/美食/菜谱/饮料/砂糖椰子冰沙/砂糖椰子冰沙/IMG-20240913214336005.jpg",
-    "attachment/sourceAndTutrial/美食/菜谱/饮料/百香果橙子特调/百香果橙子特调/IMG-20240913214336015.jpg",
     "02 Diary/day/20230403_星期一.md",
     "02 Diary/day/20230404_星期二.md",
     "02 Diary/day/20230402_星期日.md",
@@ -251,8 +254,6 @@
     "02 Diary/day/20230330_星期四.md",
     "02 Diary/day/20230329_星期三.md",
     "02 Diary/day/20230328_星期二.md",
-    "02 Diary/day/20230327_星期一.md",
-    "02 Diary/week/2023年第14周总结.md",
     "未命名.canvas"
   ]
 }
