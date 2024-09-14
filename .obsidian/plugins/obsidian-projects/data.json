@@ -10,7 +10,7 @@
       "dataSource": {
         "kind": "folder",
         "config": {
-          "path": "lifeStyle/reading/读书笔记",
+          "path": "lifeStyle/reading",
           "recursive": false
         }
       },
