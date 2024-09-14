@@ -24,18 +24,12 @@
             "id": "391e39fc356affe4",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "任务看板.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "lifeStyle/reading/图书馆.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -115,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "任务看板.md",
+                "file": "lifeStyle/reading/图书馆.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "任务看板.md",
+                "file": "lifeStyle/reading/图书馆.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "任务看板.md"
+                "file": "lifeStyle/reading/图书馆.md"
               }
             }
           },
@@ -207,30 +201,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "obsidian-git:Open Git source control": false,
-      "homepage:Open homepage": false,
-      "obsidian-kanban:创建新看板": false,
-      "obsidian-projects:打开项目": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-weread-plugin:同步微信读书笔记": false,
-      "webpage-html-export:Export Vault to HTML": false,
-      "remotely-save:Remotely Save": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "391e39fc356affe4",
   "lastOpenFiles": [
-    "这是.md",
+    "lifeStyle/reading/读书笔记/2024-04《检索力》【豆瓣评分7.4】.md",
+    "lifeStyle/reading/图书馆.md",
+    "lifeStyle/reading/图书馆.md",
+    "lifeStyle/reading/读书笔记/受戒.md",
+    "lifeStyle/reading/读书笔记/态度改变与社会影响（中译本修正版）.md",
     "任务看板.md",
     "obsidian 语法.md",
+    "这是.md",
     "obsidian收藏.md",
     "record/2024-09-12.md",
     "record/2024-09-11.md",
@@ -269,11 +258,6 @@
     "02 Diary/day/20230328_星期二.md",
     "02 Diary/day/20230327_星期一.md",
     "02 Diary/week/2023年第14周总结.md",
-    "02 Diary/week/2023年第13周总结.md",
-    "02 Diary/参考网站.md",
-    "workField/计算机/前端/js/JS非常用方法.md",
-    "workField/计算机/前端/js/TypeScript.md",
-    "workField/计算机/前端/js/JS继承.md",
     "未命名.canvas"
   ]
 }
