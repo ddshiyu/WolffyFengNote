@@ -6,108 +6,6 @@
       "defaultName": "",
       "templates": [],
       "excludedNotes": [],
-      "isDefault": false,
-      "dataSource": {
-        "kind": "folder",
-        "config": {
-          "path": "Projects - Demo Project",
-          "recursive": false
-        }
-      },
-      "newNotesFolder": "",
-      "views": [
-        {
-          "config": {
-            "fieldConfig": {
-              "name": {
-                "width": 360
-              },
-              "path": {
-                "hide": true
-              }
-            }
-          },
-          "filter": {
-            "conjunction": "and",
-            "conditions": []
-          },
-          "colors": {
-            "conditions": []
-          },
-          "sort": {
-            "criteria": []
-          },
-          "name": "Table",
-          "id": "882898ff-1014-4a97-94ca-b6dcd29e4fbf",
-          "type": "table"
-        },
-        {
-          "config": {
-            "groupByField": "status",
-            "orderSyncField": "weight"
-          },
-          "filter": {
-            "conjunction": "and",
-            "conditions": []
-          },
-          "colors": {
-            "conditions": []
-          },
-          "sort": {
-            "criteria": []
-          },
-          "name": "Board",
-          "id": "d256c0b3-0866-4f08-86f2-5657dbdc6ba5",
-          "type": "board"
-        },
-        {
-          "config": {
-            "interval": "month",
-            "dateField": "due",
-            "checkField": "published"
-          },
-          "filter": {
-            "conjunction": "and",
-            "conditions": []
-          },
-          "colors": {
-            "conditions": []
-          },
-          "sort": {
-            "criteria": []
-          },
-          "name": "Calendar",
-          "id": "d81bb021-b78a-4068-9ac4-e730f884fd36",
-          "type": "calendar"
-        },
-        {
-          "config": {
-            "coverField": "image"
-          },
-          "filter": {
-            "conjunction": "and",
-            "conditions": []
-          },
-          "colors": {
-            "conditions": []
-          },
-          "sort": {
-            "criteria": []
-          },
-          "name": "Gallery",
-          "id": "847b01e0-6c52-461d-8056-0520af2a8c4b",
-          "type": "gallery"
-        }
-      ],
-      "name": "Demo project",
-      "id": "5e1590c1-caa3-46b9-a8ae-c88bcf6a6ce8",
-      "path": "Projects - Demo Project"
-    },
-    {
-      "fieldConfig": {},
-      "defaultName": "",
-      "templates": [],
-      "excludedNotes": [],
       "isDefault": true,
       "dataSource": {
         "kind": "folder",
@@ -118,22 +16,6 @@
       },
       "newNotesFolder": "",
       "views": [
-        {
-          "config": {},
-          "filter": {
-            "conjunction": "and",
-            "conditions": []
-          },
-          "colors": {
-            "conditions": []
-          },
-          "sort": {
-            "criteria": []
-          },
-          "id": "79362f1a-31a4-48c1-bdb6-f26ee794a38d",
-          "name": "表格",
-          "type": "table"
-        },
         {
           "config": {
             "coverField": "cover",
@@ -153,6 +35,22 @@
           "id": "948febe1-76e4-4504-9b69-6190df169e00",
           "name": "画册",
           "type": "gallery"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "79362f1a-31a4-48c1-bdb6-f26ee794a38d",
+          "name": "表格",
+          "type": "table"
         }
       ],
       "id": "5caa18f6-b09a-43bc-96a9-a8a22e903e48",
@@ -174,25 +72,9 @@
       "newNotesFolder": "",
       "views": [
         {
-          "config": {},
-          "filter": {
-            "conjunction": "and",
-            "conditions": []
-          },
-          "colors": {
-            "conditions": []
-          },
-          "sort": {
-            "criteria": []
-          },
-          "id": "6f361b29-1ae0-4bcf-b127-4a30221a618e",
-          "name": "表格",
-          "type": "table"
-        },
-        {
           "config": {
             "coverField": "cover",
-            "fitStyle": "cover"
+            "fitStyle": "contain"
           },
           "filter": {
             "conjunction": "and",
@@ -207,6 +89,22 @@
           "id": "78b572db-1812-4bd7-9f25-434ebe21a76a",
           "name": "画册",
           "type": "gallery"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "6f361b29-1ae0-4bcf-b127-4a30221a618e",
+          "name": "表格",
+          "type": "table"
         }
       ],
       "id": "11a6f192-8b42-485c-ae31-e13589d9e02b",

@@ -73,6 +73,14 @@
             }
           },
           {
+            "id": "dfa7833dc3f1abb6",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {}
+            }
+          },
+          {
             "id": "39933f095462b795",
             "type": "leaf",
             "state": {
@@ -151,7 +159,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -226,7 +234,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lifeStyle/gamming/荒野大镖客：救赎 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +250,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lifeStyle/gamming/荒野大镖客：救赎 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -265,9 +271,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "lifeStyle/gamming/荒野大镖客：救赎 2.md"
-              }
+              "state": {}
             }
           },
           {
@@ -337,10 +341,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "260ed785a930218b",
+  "active": "dfa7833dc3f1abb6",
   "lastOpenFiles": [
-    "template/游戏.md",
+    "obsidian 语法.md",
     "lifeStyle/gamming/荒野大镖客：救赎 2.md",
+    "Projects - Demo Project/The Easiest Way to Start Taking Notes.md",
+    "Projects - Demo Project/What I Learned From Taking 15,000 Notes.md",
+    "Projects - Demo Project/Why You Should Be Taking More Notes.md",
+    "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
+    "template/游戏.md",
     "lifeStyle/gamming/只狼.md",
     "template/书籍.md",
     "template/通用写作模板.md",
@@ -373,14 +382,9 @@
     "attachment/lifeStyle/reading",
     "attachment/lifeStyle",
     "attachment/lifeStyle/reading/读书笔记/图书馆/IMG-20240914202828129.jpg",
-    "obsidian 语法.md",
     "任务看板.md",
     "obsidian收藏.md",
-    "Projects - Demo Project/The Best Notes You'll Ever Make.md",
-    "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
     "assets",
-    "这是.md",
-    "record/2024-09-12.md",
     "attachment/obsidian收藏/IMG-20240913204815732.png",
     "attachment/资源教程/美食人生/菜谱/饮料/冰粉/冰粉",
     "attachment/sourceAndTutrial/美食/菜谱/饮料/金菲士/金菲士/IMG-20240913214336011.jpg",
