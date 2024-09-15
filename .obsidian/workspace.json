@@ -42,20 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5e0a0147aa798e8b",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/appearance.json",
-                "staged": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,6 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "obsidian 语法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "obsidian 语法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +158,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "obsidian 语法.md"
+              }
             }
           },
           {
@@ -237,7 +230,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "97d1d106572fe357",
+  "active": "bd16ac8fbc97b0bd",
   "lastOpenFiles": [
     "obsidian 语法.md",
     "IMG-20240915102351461.png.md",
