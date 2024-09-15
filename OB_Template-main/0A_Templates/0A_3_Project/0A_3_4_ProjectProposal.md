@@ -27,7 +27,7 @@ tags:
 --- 
 # ⚠ Constraints
 
-##  1️⃣ -> Time
+## 1️⃣ -> Time
 - Describe any deadline that exists 
 ## 2️⃣ -> Quality
 - Describe any quality criteria that exists

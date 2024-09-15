@@ -11,13 +11,40 @@
       "key": "F12"
     }
   ],
+  "obsidian-douban-plugin:searcher-douban-and-input-current-file": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ],
+  "quickadd:choice:0411f5fc-cbe8-409c-9ce8-e1739fb7c021": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "K"
+    }
+  ],
   "templater-obsidian:template/日记模板.md": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Alt",
+        "Mod"
       ],
       "key": "P"
+    }
+  ],
+  "homepage:open-homepage": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "Z"
     }
   ]
 }

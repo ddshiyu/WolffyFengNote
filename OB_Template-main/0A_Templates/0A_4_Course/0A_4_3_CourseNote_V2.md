@@ -6,9 +6,9 @@ tags:
 ---
 
 # ❗❓ Information
-Related to Course::
-Date::
-Professor/Speaker::
+Related to Course::  
+Date::  
+Professor/Speaker::  
 Tags::
 
 ---
@@ -16,16 +16,7 @@ Tags::
 
  
 ## 📦 Resources
-- 
 ## 🔑 Key Points
-- 
 ## ❓ Questions
-- 
 ## 🎯 Actions
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
 ## 📃 Summary of Notes
-- 

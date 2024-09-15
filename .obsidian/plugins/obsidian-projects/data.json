@@ -18,6 +18,28 @@
       "views": [
         {
           "config": {
+            "fieldConfig": {
+              "name": {
+                "width": 296
+              }
+            }
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "79362f1a-31a4-48c1-bdb6-f26ee794a38d",
+          "name": "表格",
+          "type": "table"
+        },
+        {
+          "config": {
             "coverField": "cover",
             "fitStyle": "contain",
             "includeFields": []
@@ -35,22 +57,6 @@
           "id": "948febe1-76e4-4504-9b69-6190df169e00",
           "name": "画册",
           "type": "gallery"
-        },
-        {
-          "config": {},
-          "filter": {
-            "conjunction": "and",
-            "conditions": []
-          },
-          "colors": {
-            "conditions": []
-          },
-          "sort": {
-            "criteria": []
-          },
-          "id": "79362f1a-31a4-48c1-bdb6-f26ee794a38d",
-          "name": "表格",
-          "type": "table"
         }
       ],
       "id": "5caa18f6-b09a-43bc-96a9-a8a22e903e48",
@@ -72,6 +78,22 @@
       "newNotesFolder": "",
       "views": [
         {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "6f361b29-1ae0-4bcf-b127-4a30221a618e",
+          "name": "表格",
+          "type": "table"
+        },
+        {
           "config": {
             "coverField": "cover",
             "fitStyle": "contain"
@@ -89,22 +111,6 @@
           "id": "78b572db-1812-4bd7-9f25-434ebe21a76a",
           "name": "画册",
           "type": "gallery"
-        },
-        {
-          "config": {},
-          "filter": {
-            "conjunction": "and",
-            "conditions": []
-          },
-          "colors": {
-            "conditions": []
-          },
-          "sort": {
-            "criteria": []
-          },
-          "id": "6f361b29-1ae0-4bcf-b127-4a30221a618e",
-          "name": "表格",
-          "type": "table"
         }
       ],
       "id": "11a6f192-8b42-485c-ae31-e13589d9e02b",

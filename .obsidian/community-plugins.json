@@ -5,9 +5,7 @@
   "attachment-management",
   "obsidian-banners",
   "calendar",
-  "obsidian-checklist-plugin",
   "dataview",
-  "emoji-shortcodes",
   "obsidian-excalidraw-plugin",
   "file-explorer-note-count",
   "obsidian-git",
@@ -30,5 +28,6 @@
   "cmenu-plugin",
   "webpage-html-export",
   "remotely-save",
-  "obsidian-douban-plugin"
+  "obsidian-douban-plugin",
+  "obsidian-reveal-active-file"
 ]

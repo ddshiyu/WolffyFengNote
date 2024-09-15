@@ -6,7 +6,7 @@ tags:
 ---
 
 # ❗❓ Information
-Related to:: 
+Related to::  
 Tags:: 
 
 # 🌌 Course -> 

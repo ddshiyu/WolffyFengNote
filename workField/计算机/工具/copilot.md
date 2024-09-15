@@ -18,7 +18,7 @@ copilot config
 140.82.112.5 api.github.com
 ```
 ## 二、配置vscode的http_proxy
-一般情况下要开启代理，因为github在国内的原因，代理软件也可以查看代理地址
+一般情况下要开启代理，因为github在国内的原因，代理软件也可以查看代理地址  
 ![image.png](/images/tools/image1.png)
 
 ![image.png](/images/tools/image2.png)

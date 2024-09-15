@@ -2,15 +2,15 @@
 最近打算使用VUE3 + TS开发一个番茄时钟项目，顺便使用github actions部署一下，它有很多优点，也可以省去服务器的费用
 ## 一、package.json设置
 在文件中加上配置`homepage: https://[用户名].github.io/[项目名]`（待验证）
-##  二、设置 Personal Token
-从右上角个人设定的 Settings 进入后，点入左边侧栏的 Developer Settings 并点击 Personal access tokens 就可以进入到建立页面
-建立页面可以选择这个 token 可触及的相关权限，因为要使用 Actions 所以至少要勾 workflow (勾选 workflow 后会自动勾选第一个 repo 相关)
+## 二、设置 Personal Token
+从右上角个人设定的 Settings 进入后，点入左边侧栏的 Developer Settings 并点击 Personal access tokens 就可以进入到建立页面  
+建立页面可以选择这个 token 可触及的相关权限，因为要使用 Actions 所以至少要勾 workflow (勾选 workflow 后会自动勾选第一个 repo 相关)  
 （待验证）
 ## 三、在储存库设定 Secrets
-在 Actions 的 yaml 档中会用到刚刚建立的 token，但这并不建议被直接写在 .yaml 中曝光，所以需要到 Secrets 中设定，概念上和 .env 是类似的～
+在 Actions 的 yaml 档中会用到刚刚建立的 token，但这并不建议被直接写在 .yaml 中曝光，所以需要到 Secrets 中设定，概念上和 .env 是类似的～  
 Name 为 ACCESS_TOKEN，value 则是上一个步骤建立的 Personal token，复制贴过来就可以
 ## 四、设定 Actions
-这里使用去看github文档，[链接](https://docs.github.com/en/actions)，这里参考了一下别人的文件。
+这里使用去看github文档，[链接](https://docs.github.com/en/actions)，这里参考了一下别人的文件。  
 部署成功后会生成一个gh-pages分支。
 ```yaml
 # This is a basic workflow to help you get started with Actions

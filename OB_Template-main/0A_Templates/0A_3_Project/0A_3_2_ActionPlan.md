@@ -5,14 +5,12 @@ tags:
 ---
 
 # ❗ Information
-Related to:: 
+Related to::  
 Tags:: 
 
 # 🌌 Action plan -> 
 ---
 
 # 🧾 Description
-- 
 
 ## 🌐 Action to perform 
-1. 

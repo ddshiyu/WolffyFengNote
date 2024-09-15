@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiWorkflow",
-      "LiTabletSmartphone",
-      "📚",
-      "LiBook",
-      "LiCloudRain"
+      "💡",
+      "🖥",
+      "🧲",
+      "🖼",
+      "✏"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -33,12 +33,14 @@
     "lucideIconPackType": "native",
     "debugMode": false
   },
-  "assets": "LiPictureInPicture2",
-  "attachment": "LiPictureInPicture2",
-  "Excalidraw": "LiPencil",
-  "lifeStyle": "LiCloudRain",
-  "record": "LiBook",
+  "assets": "🖼",
+  "attachment": "🖼",
+  "Excalidraw": "✏",
+  "lifeStyle": "🌧",
+  "record": "📑",
   "sourceAndTutrial": "📚",
-  "template": "LiTabletSmartphone",
-  "workField": "LiWorkflow"
+  "template": "🧲",
+  "workField": "🖥",
+  "OB_Template-main": "🧲",
+  "task": "💡"
 }

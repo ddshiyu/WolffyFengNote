@@ -18,5 +18,5 @@
   "showEmptyChapterTitleToggle": false,
   "convertTags": false,
   "saveArticleToggle": true,
-  "saveReadingInfoToggle": true
+  "saveReadingInfoToggle": false
 }

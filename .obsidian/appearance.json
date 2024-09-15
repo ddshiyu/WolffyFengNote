@@ -1,6 +1,7 @@
 {
-  "cssTheme": "Royal Velvet",
+  "cssTheme": "GitHub Theme",
   "theme": "obsidian",
-  "interfaceFontFamily": "",
-  "textFontFamily": "Fira Code"
+  "interfaceFontFamily": "Fira Code Retina",
+  "textFontFamily": "Fira Code",
+  "nativeMenus": false
 }

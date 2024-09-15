@@ -1,16 +1,18 @@
 ---
-banner: "![[IMG-20240910225959113.jpeg]]"
+banner: "![[wallhaven-2yxp16.jpg]]"
+banner_y: 0.66
 ---
----
-banner: "![[IMG-20240910225959113.jpeg]]"
-banner_y: 0.42057
----
+
+
 # 🏠 Homepage
 
-- [👤 Personal](app://obsidian.md/%F0%9F%91%A4%20Personal)
-- [💼 Productivity](app://obsidian.md/%F0%9F%92%BC%20Productivity)
-- [📥 Inputs](app://obsidian.md/%F0%9F%93%A5%20Inputs)
-- [🧰 Utilities](app://obsidian.md/%F0%9F%A7%B0%20Utilities)
+- [[小狗钱钱]]
+- [[国外新闻网]]
+- [[定语从句]]
+- [[夏沫的海]]
+- [obsidian咖啡](https://obsidian.vip/)
+- [个人知识库](https://pkmer.cn/)
+- [obsidian中文论坛](https://forum-zh.obsidian.md/)
 
 ```dataviewjs
 
@@ -36,8 +38,8 @@ dv.paragraph(totalDays+inputMd+outputMd+paperMd)
 # ⌛今日代办
 
 ```dataview
-task from "record"
-where !completed
+task from "record/diary"
+where !completed and date(file.name) = date(today)
 ```
 
 
@@ -47,7 +49,7 @@ dv.current()
 ```
 ```dataview
 TASK
-FROM "任务看板"
+FROM "task/想法任务看板"
 WHERE meta(section).subpath = "todo"
 ```
 

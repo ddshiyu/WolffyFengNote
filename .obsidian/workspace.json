@@ -4,26 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b5d589c3d3541446",
+        "id": "95c6966392220cd8",
         "type": "tabs",
         "children": [
           {
-            "id": "a689901bd3779a39",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "assets/s29960207.jpg"
-              }
-            }
-          },
-          {
-            "id": "7c92f3b3c7642bdd",
+            "id": "eefb9429b36ad8df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lifeStyle/gamming/只狼.md",
+                "file": "record/diary/2024-09-15.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -31,20 +21,32 @@
             }
           },
           {
-            "id": "a2b632bfed41d293",
+            "id": "7d3ead5057c4f3ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian 语法.md",
+                "file": "task/想法任务看板.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "420cd4eab607b6ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "template/日记模板.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "20240914211519227",
+                "query": "tag:#todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +105,7 @@
       {
         "id": "f2194eb348d61735",
         "type": "tabs",
-        "dimension": 48.94230769230769,
+        "dimension": 15.64945226917058,
         "children": [
           {
             "id": "985c25c3ca5abea0",
@@ -119,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian 语法.md",
+                "file": "task/想法任务看板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian 语法.md",
+                "file": "task/想法任务看板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian 语法.md"
+                "file": "task/想法任务看板.md"
               }
             }
           },
@@ -178,22 +180,29 @@
               "type": "calendar",
               "state": {}
             }
-          },
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "b8aee365c90df5e5",
+        "type": "tabs",
+        "dimension": 47.652582159624416,
+        "children": [
           {
-            "id": "67ff4536383dcae0",
+            "id": "23287ec178bb45b1",
             "type": "leaf",
             "state": {
-              "type": "todo",
+              "type": "git-view",
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       },
       {
         "id": "76e6c4018a5a125c",
         "type": "tabs",
-        "dimension": 51.05769230769231,
+        "dimension": 36.69796557120501,
         "children": [
           {
             "id": "805c3edef3a9e030",
@@ -207,77 +216,75 @@
       }
     ],
     "direction": "horizontal",
-    "width": 629.5
+    "width": 468.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "canvas:新建白板": false,
       "obsidian-kanban:创建新看板": false,
       "obsidian-projects:打开项目": false,
-      "templater-obsidian:Templater": false,
       "obsidian-weread-plugin:同步微信读书笔记": false,
       "webpage-html-export:Export Vault to HTML": false,
       "remotely-save:Remotely Save": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "switcher:打开快速切换": false,
+      "switcher:打开快速切换": true,
+      "daily-notes:打开/创建今天的日记": true,
+      "templates:插入模板": true,
+      "command-palette:打开命令面板": true,
       "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false,
+      "obsidian-git:Open Git source control": true,
+      "templater-obsidian:Templater": false,
       "homepage:Open homepage": false
     }
   },
-  "active": "bd16ac8fbc97b0bd",
+  "active": "97d1d106572fe357",
   "lastOpenFiles": [
-    "obsidian 语法.md",
-    "IMG-20240915102351461.png.md",
+    "OB_Template-main/0A_Templates/0A_16_Investment/0A_16_1_Stocks.md",
+    "task/想法任务看板.md",
+    "Excalidraw/Drawing 2024-09-13 21.37.17.excalidraw.md",
+    "task/技术任务看板.md",
     "home.md",
+    "assets/p453924541.jpg",
+    "record/diary/2024-09-15.md",
+    "record/diary/2024-09-11.md",
+    "test.md",
+    "obsidian 语法.md",
+    "template/书籍.md",
+    "template/日记模板.md",
+    "lifeStyle/trivialMatter/常用资料.md",
+    "task",
+    "lifeStyle/trivialMatter/活血化瘀的食物.md",
+    "lifeStyle/trivialMatter/喜爱的蒸菜.md",
+    "lifeStyle/trivialMatter/每周计划.md",
+    "lifeStyle/trivialMatter",
+    "workField/创作/写作投稿/坚持.md",
+    "workField/创作/写作投稿/计划.md",
+    "workField/创作/写作投稿/【超详细】我的装机必备软件.md",
+    "workField/创作/写作投稿/国外新闻网.md",
+    "workField/创作/写作投稿/鉴于目前环境，给年轻人一些建议.md",
+    "workField/创作/写作投稿/人生的第一款 3A 游戏.md",
+    "workField/创作/写作投稿/如何让周末过的更充实.md",
+    "workField/创作/写作投稿/行业劝退.md",
+    "workField/创作/写作投稿/OpenAI前首席科学家伊利亚·苏斯克沃成立了新的人工智能公司.md",
+    "workField/创作/写作投稿/重大更新，Windows 可直接运行手机APP.md",
+    "workField/创作/写作投稿/朋友的成功会让你感到焦虑吗.md",
+    "attachment/wallhaven-2yxp16.jpg",
+    "attachment/IMG-20240910225959113.jpeg",
+    "assets/s33789389.jpg",
+    "笔记的方法 (刘少楠, 刘白光) (Z-Library).epub",
+    "assets/s29756927.jpg",
+    "assets/s29960207.jpg",
+    "assets/s34490180.jpg",
+    "assets/s34867980.jpg",
+    "assets/p477229647.jpg",
+    "record/yearly",
+    "record/monthly",
+    "record/weekly",
+    "record/diary",
+    "未命名.canvas",
     "attachment/obsidian收藏/IMG-20240913204815732.png",
     "attachment/obsidian 语法",
-    "attachment/obsidian 语法/IMG-20240915102351461.png",
-    "任务看板.md",
-    "lifeStyle/活血化瘀的食物.md",
-    "lifeStyle/gamming/荒野大镖客：救赎 2.md",
-    "lifeStyle/每周计划.md",
-    "lifeStyle/喜爱的蒸菜.md",
-    "lifeStyle/gamming/只狼.md",
-    "Excalidraw/Drawing 2024-09-14 22.00.53.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-13 21.37.17.excalidraw.md",
-    "attachment/obsidian 语法/IMG-20240914220027389.jpg",
-    "record/2024-09-12.md",
-    "record/2024-09-11.md",
-    "attachment/record/2024-09-11/IMG-20240914215941913.jpg",
     "attachment/record/2024-09-11",
-    "attachment/record",
-    "record/2024-09-14.md",
-    "record/2024-09-15.md",
-    "2d35980d82ae7ce097231116a73e54d32c684feb.png",
-    "attachment/sourceAndTutrial/乐器/夏沫的海/IMG-20240913214320377.png",
-    "template/电影.md",
-    "template/周记模板.md",
-    "OB_Template-main/0A_Templates/0A_6_Books/0A_6_1_Books.md",
-    "template/乐谱.md",
-    "template/书籍.md",
-    "template/2023年第14周总结.md",
-    "template/游戏.md",
-    "02 Diary/参考网站.md",
-    "02 Diary/week/2023年第13周总结.md",
-    "20230404_星期二.md",
-    "02 Diary/day/20230329_星期三.md",
-    "日记",
-    "assets/s34867980.jpg",
-    "assets/s34490180.jpg",
-    "assets/s29960207.jpg",
-    "assets/s29756927.jpg",
-    "attachment/lifeStyle/reading/检索力",
-    "attachment/lifeStyle/reading",
-    "attachment/lifeStyle",
-    "attachment/lifeStyle/reading/图书馆",
-    "attachment/lifeStyle/reading/读书笔记/图书馆",
-    "lifeStyle/movie",
-    "未命名.canvas"
+    "attachment/record"
   ]
 }
