@@ -1,5 +1,8 @@
 ---
 banner: "![[IMG-20240910225959113.jpeg]]"
+---
+---
+banner: "![[IMG-20240910225959113.jpeg]]"
 banner_y: 0.42057
 ---
 # 🏠 Homepage

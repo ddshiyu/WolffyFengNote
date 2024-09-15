@@ -8,38 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a31215998d06c045",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lifeStyle/gamming/荒野大镖客：救赎 2.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a689901bd3779a39",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
                 "file": "assets/s29960207.jpg"
-              }
-            }
-          },
-          {
-            "id": "260ed785a930218b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "template/书籍.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
               }
             }
           },
@@ -57,19 +31,6 @@
             }
           },
           {
-            "id": "fe2f0dd1721b9175",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "template/电影.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a2b632bfed41d293",
             "type": "leaf",
             "state": {
@@ -81,9 +42,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5e0a0147aa798e8b",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/appearance.json",
+                "staged": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -158,7 +130,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian 语法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +146,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian 语法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,9 +167,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "obsidian 语法.md"
-              }
+              "state": {}
             }
           },
           {
@@ -227,7 +195,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       },
       {
         "id": "76e6c4018a5a125c",
@@ -246,7 +214,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 451.5
+    "width": 629.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -269,14 +237,23 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a2b632bfed41d293",
+  "active": "97d1d106572fe357",
   "lastOpenFiles": [
-    "home.md",
     "obsidian 语法.md",
+    "IMG-20240915102351461.png.md",
+    "home.md",
+    "attachment/obsidian收藏/IMG-20240913204815732.png",
+    "attachment/obsidian 语法",
+    "attachment/obsidian 语法/IMG-20240915102351461.png",
+    "任务看板.md",
+    "lifeStyle/活血化瘀的食物.md",
+    "lifeStyle/gamming/荒野大镖客：救赎 2.md",
+    "lifeStyle/每周计划.md",
+    "lifeStyle/喜爱的蒸菜.md",
+    "lifeStyle/gamming/只狼.md",
     "Excalidraw/Drawing 2024-09-14 22.00.53.excalidraw.md",
     "Excalidraw/Drawing 2024-09-13 21.37.17.excalidraw.md",
     "attachment/obsidian 语法/IMG-20240914220027389.jpg",
-    "attachment/obsidian 语法",
     "record/2024-09-12.md",
     "record/2024-09-11.md",
     "attachment/record/2024-09-11/IMG-20240914215941913.jpg",
@@ -287,7 +264,6 @@
     "2d35980d82ae7ce097231116a73e54d32c684feb.png",
     "attachment/sourceAndTutrial/乐器/夏沫的海/IMG-20240913214320377.png",
     "template/电影.md",
-    "任务看板.md",
     "template/周记模板.md",
     "OB_Template-main/0A_Templates/0A_6_Books/0A_6_1_Books.md",
     "template/乐谱.md",
@@ -297,20 +273,12 @@
     "02 Diary/参考网站.md",
     "02 Diary/week/2023年第13周总结.md",
     "20230404_星期二.md",
-    "attachment/obsidian收藏/IMG-20240913204815732.png",
     "02 Diary/day/20230329_星期三.md",
-    "02 Diary/day/20230330_星期四.md",
-    "02 Diary/day/20230401_星期六.md",
-    "02 Diary/day/20230403_星期一.md",
-    "02 Diary/day/20230404_星期二.md",
-    "02 Diary/day/20230331_星期五.md",
-    "02 Diary/day/20230327_星期一.md",
     "日记",
     "assets/s34867980.jpg",
     "assets/s34490180.jpg",
     "assets/s29960207.jpg",
     "assets/s29756927.jpg",
-    "assets/p477229647.jpg",
     "attachment/lifeStyle/reading/检索力",
     "attachment/lifeStyle/reading",
     "attachment/lifeStyle",
