@@ -2,7 +2,6 @@
   "settings-search",
   "obsidian-activity-history",
   "table-editor-obsidian",
-  "attachment-management",
   "obsidian-banners",
   "calendar",
   "dataview",
@@ -29,5 +28,7 @@
   "webpage-html-export",
   "remotely-save",
   "obsidian-douban-plugin",
-  "obsidian-reveal-active-file"
+  "reveal-active-file-button",
+  "oz-clear-unused-images",
+  "attachment-management"
 ]

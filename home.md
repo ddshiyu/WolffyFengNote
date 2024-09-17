@@ -13,6 +13,7 @@ banner_y: 0.66
 - [obsidian咖啡](https://obsidian.vip/)
 - [个人知识库](https://pkmer.cn/)
 - [obsidian中文论坛](https://forum-zh.obsidian.md/)
+- [dataview](https://blacksmithgu.github.io/obsidian-dataview/)
 
 ```dataviewjs
 
@@ -35,21 +36,26 @@ let paperMd = "共读了 "+
 dv.paragraph(totalDays+inputMd+outputMd+paperMd)
 
 ```
-# ⌛今日代办
+# ⌛ 今日代办
 
 ```dataview
 task from "record/diary"
 where !completed and date(file.name) = date(today)
 ```
+# 📅 七日代办
 
+```dataview
+task from "record/diary"
+where !completed and date(file.name) <= (date(today) + dur(7 days))
+```
 
-# 🎠天马行空
+# 🎠 天马行空
 ```dataviewjs
 dv.current()
 ```
 ```dataview
 TASK
-FROM "task/想法任务看板"
+FROM "task"
 WHERE meta(section).subpath = "todo"
 ```
 

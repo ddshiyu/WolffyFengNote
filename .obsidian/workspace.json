@@ -4,42 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "95c6966392220cd8",
+        "id": "b9e27098a7906b43",
         "type": "tabs",
         "children": [
           {
-            "id": "eefb9429b36ad8df",
+            "id": "936310febafb091c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "record/diary/2024-09-15.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7d3ead5057c4f3ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "task/想法任务看板.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "420cd4eab607b6ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "template/日记模板.md",
+                "file": "record/preview.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -75,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#todo",
+                "query": "炒凉",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +79,7 @@
       {
         "id": "f2194eb348d61735",
         "type": "tabs",
-        "dimension": 15.64945226917058,
+        "dimension": 29.26447574334898,
         "children": [
           {
             "id": "985c25c3ca5abea0",
@@ -121,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "task/想法任务看板.md",
+                "file": "record/preview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "task/想法任务看板.md",
+                "file": "record/preview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "task/想法任务看板.md"
+                "file": "record/preview.md"
               }
             }
           },
@@ -187,7 +161,7 @@
       {
         "id": "b8aee365c90df5e5",
         "type": "tabs",
-        "dimension": 47.652582159624416,
+        "dimension": 34.037558685446015,
         "children": [
           {
             "id": "23287ec178bb45b1",
@@ -234,57 +208,58 @@
       "graph:查看关系图谱": false,
       "obsidian-git:Open Git source control": true,
       "templater-obsidian:Templater": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "97d1d106572fe357",
+  "active": "936310febafb091c",
   "lastOpenFiles": [
-    "OB_Template-main/0A_Templates/0A_16_Investment/0A_16_1_Stocks.md",
-    "task/想法任务看板.md",
-    "Excalidraw/Drawing 2024-09-13 21.37.17.excalidraw.md",
-    "task/技术任务看板.md",
-    "home.md",
-    "assets/p453924541.jpg",
-    "record/diary/2024-09-15.md",
+    "record/diary/2024-09-16.md",
+    "record/preview.md",
+    "sourceAndTutrial/美食/菜谱/素菜/凉拌木耳/凉拌木耳.md",
     "record/diary/2024-09-11.md",
-    "test.md",
+    "record/diary/2024-09-12.md",
+    "home.md",
     "obsidian 语法.md",
-    "template/书籍.md",
-    "template/日记模板.md",
-    "lifeStyle/trivialMatter/常用资料.md",
-    "task",
-    "lifeStyle/trivialMatter/活血化瘀的食物.md",
-    "lifeStyle/trivialMatter/喜爱的蒸菜.md",
-    "lifeStyle/trivialMatter/每周计划.md",
-    "lifeStyle/trivialMatter",
-    "workField/创作/写作投稿/坚持.md",
-    "workField/创作/写作投稿/计划.md",
-    "workField/创作/写作投稿/【超详细】我的装机必备软件.md",
-    "workField/创作/写作投稿/国外新闻网.md",
-    "workField/创作/写作投稿/鉴于目前环境，给年轻人一些建议.md",
-    "workField/创作/写作投稿/人生的第一款 3A 游戏.md",
-    "workField/创作/写作投稿/如何让周末过的更充实.md",
-    "workField/创作/写作投稿/行业劝退.md",
-    "workField/创作/写作投稿/OpenAI前首席科学家伊利亚·苏斯克沃成立了新的人工智能公司.md",
-    "workField/创作/写作投稿/重大更新，Windows 可直接运行手机APP.md",
-    "workField/创作/写作投稿/朋友的成功会让你感到焦虑吗.md",
+    "test.md",
+    "record/diary/2024-09-14.md",
+    "record/diary/2024-09-15.md",
+    "record/diary/2024-09-17.md",
+    "task/想法任务看板.md",
+    "task/技术任务看板.md",
+    "sourceAndTutrial/美食/菜谱/主食/炒凉粉/炒凉粉.md",
+    "attachment/test/IMG-20240917124944884.jpg",
+    "assets/s34540496.jpg",
+    "lifeStyle/reading/穷查理宝典.md",
+    "sourceAndTutrial/美食/菜谱/素菜/葱煎豆腐.md",
+    "sourceAndTutrial/美食/菜谱/水产/白灼虾/白灼虾.md",
+    "attachment/sourceAndTutrial/美食/菜谱/主食/炒凉粉/炒凉粉/IMG-20240913214335286.jpg",
+    "attachment/obsidian收藏/IMG-20240913204815732.png",
+    "attachment/test",
     "attachment/wallhaven-2yxp16.jpg",
+    "sourceAndTutrial/美食/菜谱/水产/葱油桂鱼/葱油桂鱼.jpg",
+    "sourceAndTutrial/美食/菜谱/水产/葱油桂鱼/葱油桂鱼.md",
+    "sourceAndTutrial/美食/菜谱/荤菜/冷吃兔.md",
+    "sourceAndTutrial/美食/菜谱/水产/清蒸生蚝.md",
     "attachment/IMG-20240910225959113.jpeg",
-    "assets/s33789389.jpg",
+    "sourceAndTutrial/美食/菜谱/荤菜/麻辣香锅.md",
+    "sourceAndTutrial/美食/菜谱/水产/水煮鱼.md",
+    "sourceAndTutrial/美食/菜谱/荤菜/香干肉丝.md",
+    "lifeStyle/reading/金钱心理学.md",
+    "sourceAndTutrial/美食/菜谱/荤菜/鱼香肉丝.md",
+    "sourceAndTutrial/美食/菜谱/水产/葱油桂鱼/10.jpg",
+    "sourceAndTutrial/美食/菜谱/水产/葱油桂鱼/葱油鲈鱼.jpg",
+    "sourceAndTutrial/美食/菜谱/主食/炒凉粉/炒凉粉成品.jpg",
+    "sourceAndTutrial/美食/菜谱/荤菜/青椒土豆炒肉/青椒土豆炒肉.md",
+    "input/思维",
+    "input",
+    "task",
+    "lifeStyle/trivialMatter",
     "笔记的方法 (刘少楠, 刘白光) (Z-Library).epub",
-    "assets/s29756927.jpg",
-    "assets/s29960207.jpg",
-    "assets/s34490180.jpg",
-    "assets/s34867980.jpg",
-    "assets/p477229647.jpg",
     "record/yearly",
     "record/monthly",
     "record/weekly",
     "record/diary",
-    "未命名.canvas",
-    "attachment/obsidian收藏/IMG-20240913204815732.png",
-    "attachment/obsidian 语法",
-    "attachment/record/2024-09-11",
-    "attachment/record"
+    "未命名.canvas"
   ]
 }

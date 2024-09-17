@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🗂",
       "💡",
       "🖥",
       "🧲",
-      "🖼",
-      "✏"
+      "🖼"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -42,5 +42,6 @@
   "template": "🧲",
   "workField": "🖥",
   "OB_Template-main": "🧲",
-  "task": "💡"
+  "task": "💡",
+  "input": "🗂"
 }
