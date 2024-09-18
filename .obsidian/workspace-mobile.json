@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "806c4e2c776af391",
+        "id": "612812c751bb5602",
         "type": "tabs",
         "children": [
           {
-            "id": "71fac40c2f74df24",
+            "id": "109c2bef7f08bc3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -157,11 +157,14 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "71fac40c2f74df24",
+  "active": "109c2bef7f08bc3f",
   "lastOpenFiles": [
-    "obsidian 语法.md",
-    "任务看板.md",
+    "sourceAndTutrial/乐器/夏沫的海.md",
+    "record/2024-09-11.md",
     "home.md",
+    "obsidian 语法.md",
+    "未命名看板.md",
+    "任务看板.md",
     "obsidian收藏.md",
     "02 Diary/day/20230329_星期三.md",
     "02 Diary/day/20230401_星期六.md",
@@ -186,9 +189,6 @@
     "workField/计算机/前端/css/hemoxing.vue",
     "workField/计算机/前端/css/读《CSS世界》.md",
     "workField/计算机/前端/css/盒模型.md",
-    "workField/计算机/前端/css/svg.md",
-    "workField/英语/名词/名词的数.md",
-    "workField/英语/名词/名词的性.md",
     "workField/计算机/前端/小程序",
     "workField/计算机/前端/js",
     "workField/计算机/前端/css",
