@@ -22,7 +22,7 @@
   "musicTemplateFile": "",
   "noteTemplateFile": "",
   "gameTemplateFile": "template/游戏.md",
-  "teleplayTemplateFile": "",
+  "teleplayTemplateFile": "template/电影.md",
   "searchUrl": "https://www.douban.com/search?q=",
   "dateFormat": "yyyy-MM-DD",
   "timeFormat": "HH:mm:ss",

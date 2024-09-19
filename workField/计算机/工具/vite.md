@@ -1,5 +1,5 @@
 # vite相关配置
-## 一、配置 ’@‘别名
+## 一、配置 '@'别名
 ```
 resolve: {
         alias: {
@@ -30,7 +30,7 @@ resolve: {
 - import.meta.env.SSR: {boolean} 应用是否运行在 [server](https://link.juejin.cn?target=https%3A%2F%2Fvitejs.cn%2Fvite3-cn%2Fguide%2Fssr.html%23conditional-logic) 上。
 
 ### 自定义环境变量
-vite会自动加载**.vite**或者**.vite[mode]**文件，一般我们只需要新建**.env.development**和**.env.production**文件来表示开发环境和生产环境。
+vite会自动加载**.vite**或者**.vite[mode]**文件，一般我们只需要新建**.env.development**和**.env.production**文件来表示开发环境和生产环境。  
 **注意：只有以VITE_为前缀的变量才能识别。**
 ```javascript
 VITE_APP_BASE_API = /api

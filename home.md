@@ -2,8 +2,6 @@
 banner: "![[wallhaven-2yxp16.jpg]]"
 banner_y: 0.66
 ---
-
-
 # 🏠 Homepage
 
 - [[小狗钱钱]]
@@ -42,7 +40,7 @@ dv.paragraph(totalDays+inputMd+outputMd+paperMd)
 task from "record/diary"
 where !completed and date(file.name) = date(today)
 ```
-# 📅 七日代办
+# 📅 近七日代办
 
 ```dataview
 task from "record/diary"

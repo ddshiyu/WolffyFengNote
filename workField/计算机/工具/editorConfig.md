@@ -22,7 +22,7 @@ EditorConfig 有助于为跨各种编辑器和 IDE 处理同一项目的多个�
 - trim_trailing_whitespace：设置为true以删除换行符之前的任何空白字符，设置为false以确保不会
 - insert_final_newline： 设置为true以确保文件在保存时以换行符结尾，设置为false以确保它不会
 ## 四、实例
-#### 一般前端工程的配置实例
+### 一般前端工程的配置实例
 ```
 root = true
 
