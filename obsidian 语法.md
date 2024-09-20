@@ -1,7 +1,7 @@
 ---
 banner: "![[IMG-20240910225959113.jpeg]]"
-banner_y: 0.5
 ---
+
 # 一、dataview
 
 1. 数据库分为三种形式：list、table和task
@@ -16,6 +16,11 @@ Where date(today) - file.ctime <= dur(3 day)
 Sort file.ctime desc
 ```
 
+```
+// 查询最近七天的任务
+task from "record/diary"
+where !completed and date(file.name) <= (date(today) + dur(7 days))
+```
 # 二、样式
 
 ## 1.1 修改某个文件下样式

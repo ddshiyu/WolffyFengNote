@@ -15,39 +15,42 @@ banner_y: 0.66
 
 ```dataviewjs
 
-let ftMd = dv.pages("").file.sort(t => t.cday)[0]
+let ftMd = dv.pages('"home"').file.sort(t => t.cday)[0]
 let total = parseInt([new Date() - ftMd.ctime] / (60*60*24*1000))
 let totalDays = "您已使用 *Obsidian* "+total+" 天，"
 
-let inputFile = dv.pages('"阅读"').file
+let inputFile = dv.pages('"lifeStyle"').file
 let inputMd = "共输入 "+
 	inputFile.length+" 篇笔记，"
 
-let outputFile = dv.pages('"Outputs"').file
-let outputMd = "共输出 "+
-	outputFile.length+" 篇笔记，"
+let outputFile = dv.pages('"record/diary"').file.tasks
+let outputComMd = "共完成 "+
+	outputFile.where(t => t.completed).length+" 项待办，"
+let ouputUncomMd = "未完成" + outputFile.where(t => !t.completed).length+"项待办，"
 
-let paperFile = dv.pages("#paper").file
-let paperMd = "共读了 "+
-	paperFile.length+" 篇文献。"
+let horse = dv.pages('"task"').file.tasks
+let horseComMd = "共完成 "+
+	horse.where(t => t.completed).length+" 项计划，"
+let horseUmComMd = "未完成 "+
+	horse.where(t => !t.completed).length+" 项计划，"
 
-dv.paragraph(totalDays+inputMd+outputMd+paperMd)
+dv.paragraph(totalDays+inputMd+outputComMd+ouputUncomMd+horseComMd+horseUmComMd)
 
 ```
-# ⌛ 今日代办
+# ⌛ 今日待办
 
 ```dataview
 task from "record/diary"
 where !completed and date(file.name) = date(today)
 ```
-# 📅 近七日代办
+# 📅 近七日待办
 
 ```dataview
 task from "record/diary"
-where !completed and date(file.name) <= (date(today) + dur(7 days))
+where !completed
 ```
 
-# 🎠 天马行空
+# 🎠 计划
 ```dataviewjs
 dv.current()
 ```

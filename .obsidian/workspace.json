@@ -19,6 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4d86acbba6825bc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian 语法.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -49,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "炒凉",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -145,7 +158,7 @@
       {
         "id": "b8aee365c90df5e5",
         "type": "tabs",
-        "dimension": 44.03846153846154,
+        "dimension": 55.96153846153846,
         "children": [
           {
             "id": "23287ec178bb45b1",
@@ -160,7 +173,7 @@
       {
         "id": "76e6c4018a5a125c",
         "type": "tabs",
-        "dimension": 36.73076923076923,
+        "dimension": 24.807692307692307,
         "children": [
           {
             "id": "805c3edef3a9e030",
@@ -174,7 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 394.5
+    "width": 550.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,41 +209,42 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "4bfcd706bef771ff",
+  "active": "97d1d106572fe357",
   "lastOpenFiles": [
-    "lifeStyle/fitness/弹力带.md",
+    "task/技术任务看板.md",
+    "task/想法任务看板.md",
     "home.md",
-    "record/diary/2024-09-19.md",
+    "obsidian 语法.md",
+    "record/preview.md",
+    "record/diary/2024-09-14.md",
+    "record/diary/2024-09-11.md",
+    "record/diary/2024-09-15.md",
+    "record/diary/2024-09-12.md",
+    "record/diary/2024-09-20.md",
+    "workField/英语/不定式/不定式（短语）作定语、状语、独立成分.md",
+    "record/diary/2024-09-16.md",
+    "template/2023年第14周总结.md",
+    "template/电影.md",
+    "template/周记模板.md",
+    "template/游戏.md",
+    "template/通用写作模板.md",
+    "template/书籍.md",
+    "template/日记模板.md",
+    "workField/英语/一致关系/一致关系.md",
+    "workField/英语/名词性从句/名词性从句.md",
+    "workField/创作/写作投稿/【超详细】我的装机必备软件.md",
+    "workField/创作/写作投稿/100件事.md",
     "record/diary/2024-09-17.md",
+    "record/diary/2024-09-18.md",
+    "record/diary/2024-09-19.md",
     "attachment/lifeStyle/fitness/弹力带",
     "attachment/lifeStyle/fitness",
     "attachment/lifeStyle",
     "attachment/lifeStyle/fitness/弹力带/IMG-20240919201319680.gif",
-    "task/想法任务看板.md",
     "lifeStyle/fitness",
-    "task/技术任务看板.md",
-    "sourceAndTutrial/乐器/春来了.md",
-    "obsidian 语法.md",
-    "sourceAndTutrial/乐器/花.md",
-    "sourceAndTutrial/乐器/少年的梦.md",
-    "sourceAndTutrial/乐器/夏沫的海.md",
     "attachment/sourceAndTutrial/乐器/春来了/IMG-20240919192836299.png",
     "attachment/sourceAndTutrial/乐器/春来了",
     "attachment/sourceAndTutrial/乐器/春来了/IMG-20240919192829237.png",
-    "record/preview.md",
-    "record/diary/2024-09-11.md",
-    "record/diary/2024-09-14.md",
-    "template/电影.md",
-    "template/日记模板.md",
-    "sourceAndTutrial/美食/菜谱/荤菜/干煸仔鸡/干煸仔鸡.md",
-    "sourceAndTutrial/美食/菜谱/荤菜/冬瓜酿肉/冬瓜酿肉.md",
-    "record/diary/2024-09-15.md",
-    "test.md",
-    "record/diary/2024-09-16.md",
-    "record/diary/2024-09-18.md",
-    "lifeStyle/reading/底层逻辑.md",
-    "lifeStyle/gamming/只狼.md",
-    "lifeStyle/gamming/荒野大镖客：救赎 2.md",
     "attachment/sourceAndTutrial/乐器/花/IMG-20240918205514945.png",
     "attachment/sourceAndTutrial/乐器/花",
     "attachment/sourceAndTutrial/乐器/花/IMG-20240918205511048.png",
@@ -239,7 +253,6 @@
     "attachment/sourceAndTutrial/乐器/少年的梦/IMG-20240918205156878.png",
     "attachment/sourceAndTutrial/乐器/少年的梦",
     "attachment/sourceAndTutrial/乐器/少年的梦/IMG-20240918205143237.png",
-    "Untitled.md",
     "assets/s34867980.jpg",
     "attachment/test",
     "input/思维",
