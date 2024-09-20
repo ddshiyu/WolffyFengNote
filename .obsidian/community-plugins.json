@@ -15,7 +15,6 @@
   "obsidian-kanban",
   "keyboard-analyzer",
   "obsidian-linter",
-  "obsidian-mind-map",
   "obsidian-outliner",
   "obsidian-projects",
   "quickadd",
@@ -30,5 +29,6 @@
   "obsidian-douban-plugin",
   "reveal-active-file-button",
   "oz-clear-unused-images",
-  "attachment-management"
+  "attachment-management",
+  "obsidian-mind-map"
 ]

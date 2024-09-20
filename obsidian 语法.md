@@ -1,5 +1,6 @@
 ---
 banner: "![[IMG-20240910225959113.jpeg]]"
+banner_y: 0.5
 ---
 # 一、dataview
 

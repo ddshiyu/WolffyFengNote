@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8dca4178701cc34d",
+        "id": "8cc3a400d4af6212",
         "type": "tabs",
         "children": [
           {
-            "id": "b034491c983ad128",
+            "id": "4bfcd706bef771ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -79,7 +79,7 @@
       {
         "id": "f2194eb348d61735",
         "type": "tabs",
-        "dimension": 29.26447574334898,
+        "dimension": 19.230769230769234,
         "children": [
           {
             "id": "985c25c3ca5abea0",
@@ -138,30 +138,14 @@
                 "file": "home.md"
               }
             }
-          },
-          {
-            "id": "bd16ac8fbc97b0bd",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "0c1a9443b7c6da10",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       },
       {
         "id": "b8aee365c90df5e5",
         "type": "tabs",
-        "dimension": 34.037558685446015,
+        "dimension": 44.03846153846154,
         "children": [
           {
             "id": "23287ec178bb45b1",
@@ -176,7 +160,7 @@
       {
         "id": "76e6c4018a5a125c",
         "type": "tabs",
-        "dimension": 36.69796557120501,
+        "dimension": 36.73076923076923,
         "children": [
           {
             "id": "805c3edef3a9e030",
@@ -190,7 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 365.5
+    "width": 394.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,14 +192,45 @@
       "graph:查看关系图谱": false,
       "obsidian-git:Open Git source control": true,
       "templater-obsidian:Templater": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "23287ec178bb45b1",
+  "active": "4bfcd706bef771ff",
   "lastOpenFiles": [
+    "lifeStyle/fitness/弹力带.md",
+    "home.md",
+    "record/diary/2024-09-19.md",
+    "record/diary/2024-09-17.md",
+    "attachment/lifeStyle/fitness/弹力带",
+    "attachment/lifeStyle/fitness",
+    "attachment/lifeStyle",
+    "attachment/lifeStyle/fitness/弹力带/IMG-20240919201319680.gif",
+    "task/想法任务看板.md",
+    "lifeStyle/fitness",
+    "task/技术任务看板.md",
+    "sourceAndTutrial/乐器/春来了.md",
+    "obsidian 语法.md",
     "sourceAndTutrial/乐器/花.md",
     "sourceAndTutrial/乐器/少年的梦.md",
     "sourceAndTutrial/乐器/夏沫的海.md",
+    "attachment/sourceAndTutrial/乐器/春来了/IMG-20240919192836299.png",
+    "attachment/sourceAndTutrial/乐器/春来了",
+    "attachment/sourceAndTutrial/乐器/春来了/IMG-20240919192829237.png",
+    "record/preview.md",
+    "record/diary/2024-09-11.md",
+    "record/diary/2024-09-14.md",
+    "template/电影.md",
+    "template/日记模板.md",
+    "sourceAndTutrial/美食/菜谱/荤菜/干煸仔鸡/干煸仔鸡.md",
+    "sourceAndTutrial/美食/菜谱/荤菜/冬瓜酿肉/冬瓜酿肉.md",
+    "record/diary/2024-09-15.md",
+    "test.md",
+    "record/diary/2024-09-16.md",
+    "record/diary/2024-09-18.md",
+    "lifeStyle/reading/底层逻辑.md",
+    "lifeStyle/gamming/只狼.md",
+    "lifeStyle/gamming/荒野大镖客：救赎 2.md",
     "attachment/sourceAndTutrial/乐器/花/IMG-20240918205514945.png",
     "attachment/sourceAndTutrial/乐器/花",
     "attachment/sourceAndTutrial/乐器/花/IMG-20240918205511048.png",
@@ -224,40 +239,11 @@
     "attachment/sourceAndTutrial/乐器/少年的梦/IMG-20240918205156878.png",
     "attachment/sourceAndTutrial/乐器/少年的梦",
     "attachment/sourceAndTutrial/乐器/少年的梦/IMG-20240918205143237.png",
-    "home.md",
     "Untitled.md",
-    "少年的梦.md",
-    "record/diary/2024-09-17.md",
-    "obsidian 语法.md",
-    "test.md",
-    "record/diary/2024-09-18.md",
-    "record/preview.md",
-    "record/diary/2024-09-11.md",
-    "workField/计算机/工具/vite.md",
-    "workField/计算机/工具/Docker教程.md",
-    "record/diary/2024-09-12.md",
-    "record/diary/2024-09-15.md",
-    "record/diary/2024-09-14.md",
-    "record/diary/2024-09-16.md",
-    "workField/英语/名词性从句/名词性从句.md",
-    "template/2023年第14周总结.md",
-    "lifeStyle/movie/无耻之徒.md",
-    "lifeStyle/movie/猫鼠游戏.md",
-    "lifeStyle/movie/美国往事.md",
     "assets/s34867980.jpg",
-    "template/电影.md",
-    "template/乐谱.md",
-    "assets/p2561716440.jpg",
-    "assets/s29105145.jpg",
-    "assets/s33789389.jpg",
     "attachment/test",
     "input/思维",
     "input",
-    "task",
-    "lifeStyle/trivialMatter",
-    "笔记的方法 (刘少楠, 刘白光) (Z-Library).epub",
-    "record/yearly",
-    "record/monthly",
     "未命名.canvas"
   ]
 }
