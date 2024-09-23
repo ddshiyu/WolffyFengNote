@@ -26,7 +26,7 @@ let inputMd = "共输入 "+
 let outputFile = dv.pages('"record/diary"').file.tasks
 let outputComMd = "共完成 "+
 	outputFile.where(t => t.completed).length+" 项待办，"
-let ouputUncomMd = "未完成" + outputFile.where(t => !t.completed).length+"项待办，"
+let ouputUncomMd = "未完成 " + outputFile.where(t => !t.completed).length+" 项待办，"
 
 let horse = dv.pages('"task"').file.tasks
 let horseComMd = "共完成 "+
