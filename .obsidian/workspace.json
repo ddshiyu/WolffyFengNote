@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8a1b67c062f641c0",
+        "id": "228c172ab60e847f",
         "type": "tabs",
         "children": [
           {
-            "id": "8173af9ab8e07050",
+            "id": "b845d800822c334c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "workField/创作/摄影/未命名.md",
-                "mode": "source",
+                "file": "home.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -79,7 +79,7 @@
       {
         "id": "f2194eb348d61735",
         "type": "tabs",
-        "dimension": 31.346153846153847,
+        "dimension": 31.34615384615385,
         "children": [
           {
             "id": "985c25c3ca5abea0",
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "workField/创作/摄影/未命名.md",
+                "file": "home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "workField/创作/摄影/未命名.md",
+                "file": "home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "workField/创作/摄影/未命名.md"
+                "file": "home.md"
               }
             }
           }
@@ -145,7 +145,7 @@
       {
         "id": "b8aee365c90df5e5",
         "type": "tabs",
-        "dimension": 25.67307692307692,
+        "dimension": 39.61538461538462,
         "children": [
           {
             "id": "23287ec178bb45b1",
@@ -160,7 +160,7 @@
       {
         "id": "76e6c4018a5a125c",
         "type": "tabs",
-        "dimension": 42.98076923076924,
+        "dimension": 29.038461538461544,
         "children": [
           {
             "id": "805c3edef3a9e030",
@@ -196,35 +196,35 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "8173af9ab8e07050",
+  "active": "b845d800822c334c",
   "lastOpenFiles": [
+    "obsidian 语法.md",
+    "home.md",
+    "record/diary/2024-09-24.md",
+    "record/diary/2024-09-20.md",
     "record/diary/2024-09-21.md",
+    "record/diary/2024-09-23.md",
+    "task/技术任务看板.md",
+    "task/想法任务看板.md",
+    "OB_Template-main/0A_Templates/0A_12_Contact/0A_12_Contact.md",
+    "OB_Template-main/0A_Templates/0A_15_Company/0A_15_1_Company.md",
+    "OB_Template-main/0A_Templates/0A_3_Project/0A_3_1_Project.md",
+    "OB_Template-main/0A_Templates/0A_3_Project/0A_3_2_ActionPlan.md",
+    "OB_Template-main/0A_Templates/0A_3_Project/0A_3_4_ProjectProposal.md",
+    "OB_Template-main/0A_Templates/0A_3_Project/0A_3_3_Project_V2.md",
+    "OB_Template-main/0A_Templates/0A_1_Logs/0A_1_1_DailyLog.md",
+    "OB_Template-main/README.md",
+    "OB_Template-main/0A_Templates/0A_7_Blog/0A_7_1_Blog.md",
     "workField/创作/摄影/未命名.md",
     "lifeStyle/travaling/未命名.md",
     "thinking/未命名.md",
-    "home.md",
     "thinking",
-    "obsidian 语法.md",
-    "record/diary/2024-09-23.md",
-    "record/diary/2024-09-24.md",
     "Excalidraw/Drawing 2024-09-23 10.55.13.excalidraw.md",
     "Excalidraw/Drawing 2024-09-13 21.37.17.excalidraw.md",
     "record/diary/2024-09-11.md",
     "record/diary/2024-09-17.md",
     "lifeStyle/gamming/荒野大镖客：救赎 2.md",
     "lifeStyle/fitness/弹力带.md",
-    "OB_Template-main/0A_Templates/0A_9_Recipes/0A_9_1_Recipes.md",
-    "record/preview.md",
-    "lifeStyle/movie/无耻之徒.md",
-    "record/diary/2024-09-20.md",
-    "template/日记模板.md",
-    "template/书籍.md",
-    "task/技术任务看板.md",
-    "task/想法任务看板.md",
-    "record/diary/2024-09-14.md",
-    "record/diary/2024-09-15.md",
-    "record/diary/2024-09-12.md",
-    "workField/英语/不定式/不定式（短语）作定语、状语、独立成分.md",
     "attachment/lifeStyle/fitness/弹力带",
     "attachment/lifeStyle/fitness",
     "attachment/lifeStyle",
