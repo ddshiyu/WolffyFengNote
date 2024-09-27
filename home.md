@@ -8,6 +8,7 @@ banner_y: 0.66
 - [[国外新闻网]]
 - [[定语从句]]
 - [[夏沫的海]]
+- [[想法任务看板]]
 - [obsidian咖啡](https://obsidian.vip/)
 - [个人知识库](https://pkmer.cn/)
 - [obsidian中文论坛](https://forum-zh.obsidian.md/)

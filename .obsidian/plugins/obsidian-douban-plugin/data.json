@@ -69,7 +69,7 @@
     }
   ],
   "loginCookiesContent": "",
-  "loginHeadersContent": "{\"Accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7\",\"Accept-Encoding\":\"gzip, deflate, br\",\"Accept-Language\":\"zh-CN\",\"Cookie\":\"bid=3AZLlzgJssg; dbcl2=\\\"182186381:83pM9ECL53c\\\"\",\"Sec-Fetch-Mode\":\"navigate\",\"Sec-Fetch-Site\":\"cross-site\",\"Upgrade-Insecure-Requests\":\"1\",\"User-Agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) obsidian/1.6.7 Chrome/124.0.6367.243 Electron/30.1.2 Safari/537.36\"}",
+  "loginHeadersContent": "{\"Accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7\",\"Accept-Encoding\":\"gzip, deflate, br\",\"Accept-Language\":\"zh-CN\",\"Cookie\":\"bid=-D6sHXH-zVU; dbcl2=\\\"182186381:ndJ2uK2q6GI\\\"\",\"Referer\":\"https://accounts.douban.com/\",\"Sec-Fetch-Mode\":\"navigate\",\"Sec-Fetch-Site\":\"same-site\",\"Sec-Fetch-User\":\"?1\",\"Upgrade-Insecure-Requests\":\"1\",\"User-Agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) obsidian/1.6.7 Chrome/124.0.6367.243 Electron/30.1.2 Safari/537.36\"}",
   "cacheImage": true,
   "cacheHighQuantityImage": true,
   "attachmentPath": "assets",
