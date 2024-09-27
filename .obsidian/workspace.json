@@ -196,15 +196,19 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "98acb4fc78af50fd",
+  "active": "97d1d106572fe357",
   "lastOpenFiles": [
-    "obsidian 语法.md",
-    "home.md",
     "task/想法任务看板.md",
     "task/技术任务看板.md",
+    "record/diary/2024-09-26.md",
+    "home.md",
+    "compress.mjs",
+    "obsidian 语法.md",
+    "compress.js",
+    "新建文本文档.txt",
+    "record/diary/2024-09-27.md",
     "record/preview.md",
     "record/diary/2024-09-16.md",
-    "record/diary/2024-09-26.md",
     "workField/创作/写作投稿/国外新闻网.md",
     "thinking/未命名.md",
     "record/diary/2024-09-25.md",
@@ -223,8 +227,6 @@
     "OB_Template-main/0A_Templates/0A_3_Project/0A_3_4_ProjectProposal.md",
     "OB_Template-main/0A_Templates/0A_3_Project/0A_3_3_Project_V2.md",
     "OB_Template-main/0A_Templates/0A_1_Logs/0A_1_1_DailyLog.md",
-    "OB_Template-main/README.md",
-    "OB_Template-main/0A_Templates/0A_7_Blog/0A_7_1_Blog.md",
     "thinking",
     "attachment/lifeStyle/fitness/弹力带",
     "attachment/lifeStyle/fitness",
@@ -240,10 +242,7 @@
     "attachment/sourceAndTutrial/乐器/夏沫的海/IMG-20240913214320377.png",
     "attachment/sourceAndTutrial/乐器/少年的梦/IMG-20240918205203790.png",
     "attachment/sourceAndTutrial/乐器/少年的梦/IMG-20240918205156878.png",
-    "attachment/sourceAndTutrial/乐器/少年的梦",
     "attachment/sourceAndTutrial/乐器/少年的梦/IMG-20240918205143237.png",
-    "attachment/test",
-    "input/思维",
     "未命名.canvas"
   ]
 }
