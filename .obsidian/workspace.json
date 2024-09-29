@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "90a0221e15de9705",
+        "id": "4b11b7319e4076fe",
         "type": "tabs",
         "children": [
           {
-            "id": "a9f2ec90f2645321",
+            "id": "f1c0debee2e6aa56",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "home.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "home.md"
+              }
             }
           }
         ],
@@ -151,7 +160,7 @@
       {
         "id": "76e6c4018a5a125c",
         "type": "tabs",
-        "dimension": 29.038461538461537,
+        "dimension": 29.03846153846154,
         "children": [
           {
             "id": "805c3edef3a9e030",
@@ -187,11 +196,12 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "a9f2ec90f2645321",
+  "active": "f1c0debee2e6aa56",
   "lastOpenFiles": [
-    "sourceAndTutrial/美食/菜谱/水产/小龙虾/小龙虾.md",
+    "record/diary/2024-09-29.md",
     "home.md",
     "task/想法任务看板.md",
+    "sourceAndTutrial/美食/菜谱/水产/小龙虾/小龙虾.md",
     "task/技术任务看板.md",
     "record/diary/2024-09-26.md",
     "compress.mjs",
@@ -218,7 +228,6 @@
     "OB_Template-main/0A_Templates/0A_3_Project/0A_3_2_ActionPlan.md",
     "OB_Template-main/0A_Templates/0A_3_Project/0A_3_4_ProjectProposal.md",
     "OB_Template-main/0A_Templates/0A_3_Project/0A_3_3_Project_V2.md",
-    "OB_Template-main/0A_Templates/0A_1_Logs/0A_1_1_DailyLog.md",
     "thinking",
     "attachment/lifeStyle/fitness/弹力带",
     "attachment/lifeStyle/fitness",
