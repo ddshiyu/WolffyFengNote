@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4b11b7319e4076fe",
+        "id": "a8f11fcecf86a80f",
         "type": "tabs",
         "children": [
           {
-            "id": "f1c0debee2e6aa56",
+            "id": "3cd2e01ca227902f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home.md",
+                "file": "obsidian 语法.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -79,7 +79,7 @@
       {
         "id": "f2194eb348d61735",
         "type": "tabs",
-        "dimension": 31.346153846153847,
+        "dimension": 24.23076923076923,
         "children": [
           {
             "id": "985c25c3ca5abea0",
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home.md",
+                "file": "obsidian 语法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "home.md",
+                "file": "obsidian 语法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "home.md"
+                "file": "obsidian 语法.md"
               }
             }
           }
@@ -145,7 +145,7 @@
       {
         "id": "b8aee365c90df5e5",
         "type": "tabs",
-        "dimension": 39.61538461538461,
+        "dimension": 28.365384615384613,
         "children": [
           {
             "id": "23287ec178bb45b1",
@@ -160,7 +160,7 @@
       {
         "id": "76e6c4018a5a125c",
         "type": "tabs",
-        "dimension": 29.03846153846154,
+        "dimension": 47.40384615384615,
         "children": [
           {
             "id": "805c3edef3a9e030",
@@ -196,16 +196,17 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "f1c0debee2e6aa56",
+  "active": "3cd2e01ca227902f",
   "lastOpenFiles": [
-    "record/diary/2024-09-29.md",
     "home.md",
+    "obsidian 语法.md",
+    "record/diary/2024-09-30.md",
+    "record/diary/2024-09-29.md",
     "task/想法任务看板.md",
     "sourceAndTutrial/美食/菜谱/水产/小龙虾/小龙虾.md",
     "task/技术任务看板.md",
     "record/diary/2024-09-26.md",
     "compress.mjs",
-    "obsidian 语法.md",
     "compress.js",
     "新建文本文档.txt",
     "record/diary/2024-09-27.md",
@@ -227,7 +228,6 @@
     "OB_Template-main/0A_Templates/0A_3_Project/0A_3_1_Project.md",
     "OB_Template-main/0A_Templates/0A_3_Project/0A_3_2_ActionPlan.md",
     "OB_Template-main/0A_Templates/0A_3_Project/0A_3_4_ProjectProposal.md",
-    "OB_Template-main/0A_Templates/0A_3_Project/0A_3_3_Project_V2.md",
     "thinking",
     "attachment/lifeStyle/fitness/弹力带",
     "attachment/lifeStyle/fitness",
