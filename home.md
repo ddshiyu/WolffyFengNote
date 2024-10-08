@@ -1,10 +1,7 @@
 ---
 banner: "![[wallhaven-2yxp16.jpg]]"
 ---
----
-banner: "![[wallhaven-2yxp16.jpg]]"
-banner_y: 0.66
----
+
 # 🏠 Homepage
 
 - [[小狗钱钱]]

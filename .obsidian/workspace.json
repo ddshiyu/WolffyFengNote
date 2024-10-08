@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5e8c1586dee8e4a9",
+        "id": "139796ebd45e6f73",
         "type": "tabs",
         "children": [
           {
-            "id": "921b467d605bb3c1",
+            "id": "354ff7ffc86e018c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "input/up/帅soserious/为什么会越来越累？如何高效休息.md",
-                "mode": "source",
+                "file": "home.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -79,7 +79,7 @@
       {
         "id": "f2194eb348d61735",
         "type": "tabs",
-        "dimension": 31.346153846153847,
+        "dimension": 31.34615384615385,
         "children": [
           {
             "id": "985c25c3ca5abea0",
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "input/up/帅soserious/为什么会越来越累？如何高效休息.md",
+                "file": "home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "input/up/帅soserious/为什么会越来越累？如何高效休息.md",
+                "file": "home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "input/up/帅soserious/为什么会越来越累？如何高效休息.md"
+                "file": "home.md"
               }
             }
           }
@@ -145,7 +145,7 @@
       {
         "id": "b8aee365c90df5e5",
         "type": "tabs",
-        "dimension": 39.61538461538461,
+        "dimension": 39.61538461538462,
         "children": [
           {
             "id": "23287ec178bb45b1",
@@ -160,7 +160,7 @@
       {
         "id": "76e6c4018a5a125c",
         "type": "tabs",
-        "dimension": 29.03846153846154,
+        "dimension": 29.038461538461544,
         "children": [
           {
             "id": "805c3edef3a9e030",
@@ -196,17 +196,17 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "921b467d605bb3c1",
+  "active": "23287ec178bb45b1",
   "lastOpenFiles": [
     "attachment/input/up/帅soserious/为什么会越来越累？如何高效休息/IMG-20241007165030085.jpg",
     "attachment/input/up/帅soserious/为什么会越来越累？如何高效休息/IMG-20241007164724823.jpg",
     "input/up/帅soserious/为什么会越来越累？如何高效休息.md",
+    "home.md",
     "attachment/input/up/帅soserious/为什么会越来越累？如何高效休息",
     "attachment/input/up/帅soserious",
     "attachment/input/up",
     "attachment/input",
     "workField/创作/写作投稿/OpenAI前首席科学家伊利亚·苏斯克沃成立了新的人工智能公司.md",
-    "home.md",
     "workField/创作/写作投稿/重大更新，Windows 可直接运行手机APP.md",
     "workField/创作/写作投稿/行业劝退.md",
     "workField/创作/写作投稿/如何让周末过的更充实.md",
@@ -243,7 +243,6 @@
     "attachment/sourceAndTutrial/乐器/花/IMG-20240918205511048.png",
     "attachment/sourceAndTutrial/乐器/夏沫的海/IMG-20240913214320377.png",
     "attachment/sourceAndTutrial/乐器/少年的梦/IMG-20240918205203790.png",
-    "attachment/sourceAndTutrial/乐器/少年的梦/IMG-20240918205156878.png",
     "未命名.canvas"
   ]
 }
