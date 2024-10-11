@@ -1,5 +1,6 @@
 ---
-banner: "![[wallhaven-2yxp16.jpg]]"
+banner: "![[wallhaven-l8782r.png]]"
+banner_y: 0.29429
 ---
 
 # 🏠 Homepage

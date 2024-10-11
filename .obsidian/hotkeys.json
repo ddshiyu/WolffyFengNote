@@ -29,15 +29,6 @@
       "key": "K"
     }
   ],
-  "templater-obsidian:template/日记模板.md": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "P"
-    }
-  ],
   "homepage:open-homepage": [
     {
       "modifiers": [
@@ -54,6 +45,15 @@
         "Shift"
       ],
       "key": "M"
+    }
+  ],
+  "templater-obsidian:template/日记模板.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "P"
     }
   ]
 }

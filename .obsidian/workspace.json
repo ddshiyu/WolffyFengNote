@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "139796ebd45e6f73",
+        "id": "d31754a27dd04983",
         "type": "tabs",
         "children": [
           {
-            "id": "354ff7ffc86e018c",
+            "id": "6cb42c3f889e935c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -174,7 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 447.5
+    "width": 360.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,12 +196,26 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "23287ec178bb45b1",
+  "active": "6cb42c3f889e935c",
   "lastOpenFiles": [
+    "record/diary/2024-10-07.md",
+    "home.md",
+    "record/preview.md",
+    "record/diary/2024-10-11.md",
+    "record/diary/2024-10-10.md",
+    "obsidian 语法.md",
+    "record/diary/2024-10-09.md",
+    "attachment/wallhaven-2yxp16.jpg",
+    "attachment/wallhaven-l8782r.png",
+    "attachment/IMG-20240910225959113.jpeg",
+    "attachment/home",
+    "attachment/home/IMG-20241009112647752.png",
+    "assets/p453924541.jpg",
+    "record/diary/2024-10-08.md",
+    "record/diary/2024-09-30.md",
     "attachment/input/up/帅soserious/为什么会越来越累？如何高效休息/IMG-20241007165030085.jpg",
     "attachment/input/up/帅soserious/为什么会越来越累？如何高效休息/IMG-20241007164724823.jpg",
     "input/up/帅soserious/为什么会越来越累？如何高效休息.md",
-    "home.md",
     "attachment/input/up/帅soserious/为什么会越来越累？如何高效休息",
     "attachment/input/up/帅soserious",
     "attachment/input/up",
@@ -221,28 +235,15 @@
     "input/up/帅soserious",
     "input/up",
     "input/未命名.md",
-    "record/diary/2024-10-07.md",
-    "record/diary/2024-09-30.md",
     "record/diary/2024-09-29.md",
     "sourceAndTutrial/美食/菜谱/水产/小龙虾/小龙虾.md",
     "task/想法任务看板.md",
-    "task/技术任务看板.md",
-    "record/diary/2024-09-26.md",
     "compress.mjs",
-    "obsidian 语法.md",
     "compress.js",
     "新建文本文档.txt",
-    "record/diary/2024-09-27.md",
-    "record/preview.md",
     "assets/p2153214457.jpg",
-    "thinking",
     "attachment/lifeStyle/fitness/弹力带/IMG-20240919201319680.gif",
     "attachment/sourceAndTutrial/乐器/春来了/IMG-20240919192836299.png",
-    "attachment/sourceAndTutrial/乐器/春来了/IMG-20240919192829237.png",
-    "attachment/sourceAndTutrial/乐器/花/IMG-20240918205514945.png",
-    "attachment/sourceAndTutrial/乐器/花/IMG-20240918205511048.png",
-    "attachment/sourceAndTutrial/乐器/夏沫的海/IMG-20240913214320377.png",
-    "attachment/sourceAndTutrial/乐器/少年的梦/IMG-20240918205203790.png",
     "未命名.canvas"
   ]
 }
