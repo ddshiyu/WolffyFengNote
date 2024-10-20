@@ -45,6 +45,8 @@
   "defaultMediaIcon": "lucide//file-image",
   "exportPath": "C:\\\\Users\\Administrator\\Downloads",
   "filesToExport": [
-    []
+    [
+      "sourceAndTutrial/乐器/春来了.md"
+    ]
   ]
 }

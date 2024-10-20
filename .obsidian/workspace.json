@@ -4,23 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "d31754a27dd04983",
+        "id": "da280399ae32050e",
         "type": "tabs",
         "children": [
           {
-            "id": "6cb42c3f889e935c",
+            "id": "d2650d6357306a85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "home.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "home"
+            }
+          },
+          {
+            "id": "3cc028e2a1a9e20f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +55,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -55,7 +72,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -63,7 +82,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
@@ -86,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -103,7 +126,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "home 的反向链接列表"
             }
           },
           {
@@ -115,7 +140,9 @@
                 "file": "home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "home 的出链列表"
             }
           },
           {
@@ -126,7 +153,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -136,7 +165,9 @@
               "type": "outline",
               "state": {
                 "file": "home.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "home 的大纲"
             }
           }
         ],
@@ -152,7 +183,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ]
@@ -167,7 +200,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
@@ -188,7 +223,6 @@
       "templates:插入模板": true,
       "command-palette:打开命令面板": true,
       "obsidian-git:Open Git source control": true,
-      "homepage:Open homepage": false,
       "templater-obsidian:Templater": true,
       "obsidian-weread-plugin:同步微信读书笔记": false,
       "webpage-html-export:Export Vault to HTML": false,
@@ -196,14 +230,28 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "6cb42c3f889e935c",
+  "active": "23287ec178bb45b1",
   "lastOpenFiles": [
-    "record/diary/2024-10-07.md",
+    "record/diary/2024-10-18.md",
     "home.md",
+    "obsidian 语法.md",
+    "lifeStyle/movie/绝命毒师.md",
+    "record/diary/2024-10-16.md",
+    "record/diary/2024-10-15.md",
+    "record/diary/2024-10-14.md",
+    "sourceAndTutrial/乐器/春来了.md",
+    "task/技术任务看板.md",
+    "lifeStyle/trivialMatter/每周计划.md",
+    "lifeStyle/trivialMatter/活血化瘀的食物.md",
+    "lifeStyle/trivialMatter/常用资料.md",
+    "lifeStyle/gamming/荒野大镖客：救赎 2.md",
+    "workField/创作/写作投稿/5种常见的理由，但是.md",
+    "record/diary/2024-10-12.md",
+    "workField/创作/写作投稿/100件事.md",
+    "record/diary/2024-10-07.md",
     "record/preview.md",
     "record/diary/2024-10-11.md",
     "record/diary/2024-10-10.md",
-    "obsidian 语法.md",
     "record/diary/2024-10-09.md",
     "attachment/wallhaven-2yxp16.jpg",
     "attachment/wallhaven-l8782r.png",
@@ -222,22 +270,8 @@
     "attachment/input",
     "workField/创作/写作投稿/OpenAI前首席科学家伊利亚·苏斯克沃成立了新的人工智能公司.md",
     "workField/创作/写作投稿/重大更新，Windows 可直接运行手机APP.md",
-    "workField/创作/写作投稿/行业劝退.md",
-    "workField/创作/写作投稿/如何让周末过的更充实.md",
-    "workField/创作/写作投稿/朋友的成功会让你感到焦虑吗.md",
-    "workField/创作/写作投稿/如何高效使用搜索引擎.md",
-    "workField/创作/写作投稿/鉴于目前环境，给年轻人一些建议.md",
-    "workField/创作/写作投稿/国外新闻网.md",
-    "workField/创作/写作投稿/【超详细】我的装机必备软件.md",
-    "workField/创作/写作投稿/100件事.md",
-    "workField/创作/写作投稿/今天六一，感谢陪伴我童年的游戏.md",
-    "thinking/未命名.md",
     "input/up/帅soserious",
     "input/up",
-    "input/未命名.md",
-    "record/diary/2024-09-29.md",
-    "sourceAndTutrial/美食/菜谱/水产/小龙虾/小龙虾.md",
-    "task/想法任务看板.md",
     "compress.mjs",
     "compress.js",
     "新建文本文档.txt",
