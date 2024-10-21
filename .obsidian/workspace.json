@@ -95,8 +95,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           },
           {
@@ -200,17 +200,17 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "obsidian-kanban:创建新看板": false,
-      "obsidian-projects:打开项目": false,
       "switcher:打开快速切换": true,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": true,
       "templates:插入模板": true,
       "command-palette:打开命令面板": true,
-      "obsidian-git:Open Git source control": true,
-      "templater-obsidian:Templater": true,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:创建新看板": false,
+      "obsidian-projects:打开项目": false,
+      "templater-obsidian:Templater": false,
       "obsidian-weread-plugin:同步微信读书笔记": false,
       "webpage-html-export:Export Vault to HTML": false,
       "remotely-save:Remotely Save": false,
