@@ -13,29 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home.md",
+                "file": "record/diary/2024-10-21.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "home"
-            }
-          },
-          {
-            "id": "3cc028e2a1a9e20f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
+              "title": "2024-10-21"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +87,7 @@
       {
         "id": "f2194eb348d61735",
         "type": "tabs",
-        "dimension": 31.34615384615385,
+        "dimension": 31.346153846153847,
         "children": [
           {
             "id": "985c25c3ca5abea0",
@@ -118,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home.md",
+                "file": "obsidian 语法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "home 的反向链接列表"
+              "title": "obsidian 语法 的反向链接列表"
             }
           },
           {
@@ -137,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "home.md",
+                "file": "obsidian 语法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "home 的出链列表"
+              "title": "obsidian 语法 的出链列表"
             }
           },
           {
@@ -164,10 +151,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "home.md"
+                "file": "record/diary/2024-10-21.md"
               },
               "icon": "lucide-list",
-              "title": "home 的大纲"
+              "title": "2024-10-21 的大纲"
             }
           }
         ],
@@ -176,7 +163,7 @@
       {
         "id": "b8aee365c90df5e5",
         "type": "tabs",
-        "dimension": 39.61538461538462,
+        "dimension": 39.61538461538461,
         "children": [
           {
             "id": "23287ec178bb45b1",
@@ -193,7 +180,7 @@
       {
         "id": "76e6c4018a5a125c",
         "type": "tabs",
-        "dimension": 29.038461538461544,
+        "dimension": 29.038461538461537,
         "children": [
           {
             "id": "805c3edef3a9e030",
@@ -230,11 +217,12 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "23287ec178bb45b1",
+  "active": "d2650d6357306a85",
   "lastOpenFiles": [
-    "record/diary/2024-10-18.md",
-    "home.md",
+    "record/diary/2024-10-21.md",
     "obsidian 语法.md",
+    "home.md",
+    "record/diary/2024-10-18.md",
     "lifeStyle/movie/绝命毒师.md",
     "record/diary/2024-10-16.md",
     "record/diary/2024-10-15.md",
@@ -269,7 +257,6 @@
     "attachment/input/up",
     "attachment/input",
     "workField/创作/写作投稿/OpenAI前首席科学家伊利亚·苏斯克沃成立了新的人工智能公司.md",
-    "workField/创作/写作投稿/重大更新，Windows 可直接运行手机APP.md",
     "input/up/帅soserious",
     "input/up",
     "compress.mjs",
