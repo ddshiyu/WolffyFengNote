@@ -11,13 +11,15 @@
             "id": "d2650d6357306a85",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "record/diary/2024-10-28.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (workspace.json)"
+              "icon": "lucide-file",
+              "title": "2024-10-28"
             }
           }
         ]
@@ -103,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "obsidian 语法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "obsidian 语法 的反向链接列表"
             }
           },
           {
@@ -121,11 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "obsidian 语法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "obsidian 语法 的出链列表"
             }
           },
           {
@@ -146,9 +150,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "record/diary/2024-10-28.md"
+              },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "2024-10-28 的大纲"
             }
           }
         ],
@@ -174,7 +180,7 @@
       {
         "id": "76e6c4018a5a125c",
         "type": "tabs",
-        "dimension": 29.03846153846154,
+        "dimension": 29.038461538461537,
         "children": [
           {
             "id": "805c3edef3a9e030",
@@ -194,17 +200,17 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-kanban:创建新看板": false,
+      "obsidian-projects:打开项目": false,
       "switcher:打开快速切换": true,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": true,
       "templates:插入模板": true,
       "command-palette:打开命令面板": true,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:创建新看板": false,
-      "obsidian-projects:打开项目": false,
-      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": true,
+      "templater-obsidian:Templater": true,
       "obsidian-weread-plugin:同步微信读书笔记": false,
       "webpage-html-export:Export Vault to HTML": false,
       "remotely-save:Remotely Save": false,
@@ -213,22 +219,21 @@
   },
   "active": "d2650d6357306a85",
   "lastOpenFiles": [
+    "thinking/未命名.md",
+    "record/diary/2024-10-28.md",
     "template/日记模板.md",
+    "record/diary/2024-10-21.md",
     "home.md",
     "obsidian 语法.md",
-    "record/preview.md",
     "task/想法任务看板.md",
-    "record/diary/2024-09-16.md",
-    "workField/计算机/工具/git.md",
+    "task/技术任务看板.md",
     "record/diary/2024-10-17.md",
-    "record/diary/2024-10-21.md",
     "record/diary/2024-10-18.md",
     "lifeStyle/movie/绝命毒师.md",
     "record/diary/2024-10-16.md",
     "record/diary/2024-10-15.md",
     "record/diary/2024-10-14.md",
     "sourceAndTutrial/乐器/春来了.md",
-    "task/技术任务看板.md",
     "lifeStyle/trivialMatter/每周计划.md",
     "lifeStyle/trivialMatter/活血化瘀的食物.md",
     "lifeStyle/trivialMatter/常用资料.md",
@@ -237,6 +242,7 @@
     "record/diary/2024-10-12.md",
     "workField/创作/写作投稿/100件事.md",
     "record/diary/2024-10-07.md",
+    "record/preview.md",
     "record/diary/2024-10-11.md",
     "record/diary/2024-10-10.md",
     "attachment/wallhaven-2yxp16.jpg",
