@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template/日记模板.md",
+                "file": "sourceAndTutrial/乐器/snow fall.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "日记模板"
+              "title": "snow fall"
             }
           },
           {
@@ -229,8 +229,21 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "97d1d106572fe357",
+  "active": "d2650d6357306a85",
   "lastOpenFiles": [
+    "attachment/sourceAndTutrial/乐器/snow fall/IMG-20241101233156274.jpg",
+    "attachment/sourceAndTutrial/乐器/snow fall/IMG-20241101233151701.jpg",
+    "attachment/sourceAndTutrial/乐器/snow fall/IMG-20241101233137946.jpg",
+    "attachment/sourceAndTutrial/乐器/snow fall/IMG-20241101233112382.jpg",
+    "attachment/sourceAndTutrial/乐器/snow fall",
+    "attachment/sourceAndTutrial/乐器/snow fall/IMG-20241101233040734.jpg",
+    "sourceAndTutrial/乐器/春来了.md",
+    "sourceAndTutrial/乐器/snow fall.md",
+    "sourceAndTutrial/乐器/夏沫的海.md",
+    "sourceAndTutrial/乐器/花.md",
+    "sourceAndTutrial/乐器/少年的梦.md",
+    "template/日记模板.md",
+    "template/书籍.md",
     "thinking/十分钟原则.md",
     "record/diary/2024-10-27.md",
     "record/diary/2024-11-01.md",
@@ -240,23 +253,15 @@
     "record/diary/2024-10-28.md",
     "thinking/未命名.md",
     "input/up/帅soserious/为什么会越来越累？如何高效休息.md",
-    "template/日记模板.md",
-    "sourceAndTutrial/乐器/夏沫的海.md",
     "template/乐谱.md",
     "template/游戏.md",
     "template/2023年第14周总结.md",
     "template/通用写作模板.md",
-    "template/书籍.md",
     "home.md",
     "record/preview.md",
     "record/previewT.md",
     "record/diary/2024-09-11.md",
     "template/电影.md",
-    "record/diary/2024-10-21.md",
-    "lifeStyle/reading/金钱心理学.md",
-    "obsidian 语法.md",
-    "template/周记模板.md",
-    "task/想法任务看板.md",
     "attachment/wallhaven-2yxp16.jpg",
     "attachment/wallhaven-l8782r.png",
     "attachment/IMG-20240910225959113.jpeg",
@@ -264,7 +269,6 @@
     "attachment/home/IMG-20241009112647752.png",
     "assets/p453924541.jpg",
     "attachment/input/up/帅soserious/为什么会越来越累？如何高效休息/IMG-20241007165030085.jpg",
-    "attachment/input/up/帅soserious/为什么会越来越累？如何高效休息/IMG-20241007164724823.jpg",
     "attachment/input/up/帅soserious/为什么会越来越累？如何高效休息",
     "attachment/input/up/帅soserious",
     "attachment/input/up",
@@ -273,10 +277,6 @@
     "input/up",
     "compress.mjs",
     "compress.js",
-    "新建文本文档.txt",
-    "assets/p2153214457.jpg",
-    "attachment/lifeStyle/fitness/弹力带/IMG-20240919201319680.gif",
-    "attachment/sourceAndTutrial/乐器/春来了/IMG-20240919192836299.png",
     "未命名.canvas"
   ]
 }
